@@ -1,1 +1,874 @@
-function _0x4a08(){const _0x3d0752=['player','SHOP_PAGE','color','https://gspics.org/images/2025/02/04/IVDrIX.png','copy','borderRadius','8631QFylAH','addListener','13407262EyDMhJ','Content\x20area\x20found:','Loading\x20Swiper\x20styles','error','126JnrSbx','script','approximate_member_count','balance-icon','background','#fff','20YTFfZA','split','parentElement','https://i.imgur.com/0XJ0SgD.png','main','руб','contains','Header\x20not\x20found,\x20slider\x20inserted\x20at\x20top\x20of\x20content\x20area','textContent','innerWidth','onload','getElementById','image','.gs-swiper-container','flexDirection','Swiper\x20library\x20loaded\x20successfully','Failed\x20to\x20load\x20Swiper\x20from\x20CDN,\x20trying\x20fallback','HEADER','\x22></img>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','success','DOMContentLoaded\x20triggered\x20for\x20slider','createElement','x20','.Header-module__wrapper','overflow','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20style=\x22color:#8000ff;\x20text-shadow:\x200\x200\x206px\x20#8000ff;\x20margin:\x200\x200\x205px\x200;\x22>','observe','%c\x20Kits\x20Observer\x20запущен','getElementsByTagName','nextElementSibling','Бинты','Slider\x20already\x20exists,\x20skipping','querySelectorAll','visibility','[class*=\x22header\x22]','3492568AzoRjf','Некорректные\x20данные!','abs','link','sidebarStoreToRight','preventDefault','HeaderNav-module__link','1778034VGndti','stylesheet','closeModalButton','M249','https://gspics.org/images/2025/02/04/IVDVpe.png','https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js','players','appendChild','https://unpkg.com/swiper@11/swiper-element-bundle.min.js','contents','Swiper\x20library\x20already\x20loaded','#000','kitsContainer','initState','getElementsByClassName','100%','img','isAppReady','.PlayerMenu-module__profileLink','https://testmelon.gamestores.app/api/v1/widgets.monitoring','setCustomConfig','\x22\x20style=\x22width:50px;\x20height:50px;\x20object-fit:\x20cover;\x20border-radius:4px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-weight:bold;\x20margin-top:5px;\x20color:#8000ff;\x20text-shadow:\x200\x200\x206px\x20#8000ff;\x22>','alignItems','\x20DID_MOUNT\x20triggered\x20for\x20styles','getComputedStyle','Image\x20border-radius:','widthDiff','https://gspics.org/images/2025/02/04/IVDJj3.png','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:flex;\x20gap:10px;\x20flex-wrap:\x20wrap;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','approximate_presence_count','target','fontSize','color:\x20white;\x20background:\x20#f2a358','items','❌\x20Авто-открытие\x20модалки\x20отменено','className','outerHeight','then','mouseout','424KKJksn','append','justifyContent','\x20участ.','Slider\x20inserted\x20after\x20header\x20in\x20parent\x20(likely\x20body)','currency','.viewKitsButton','Attempting\x20to\x20initialize\x20slider','4115WYyuQw','Image\x20or\x20slide\x20not\x20found\x20for\x20debugging','Header\x20parent:','load','.presenceCount','zeroToFree','question-mark','beforebegin','innerHTML','dispatchEvent','<div\x20class=\x22socials\x22><a\x20href=\x22https://t.me/MelonRust\x22\x20target=\x22_blank\x22\x20class=\x22socials-telegram\x22\x20title=\x22Наш\x20Telegram\x20канал\x22><img\x20class=\x22socials-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDhcL.png\x22></a><a\x20href=\x22https://discord.gg/2D456zDGj3\x22\x20\x20target=\x22_blank\x22\x20class=\x22socials-discord\x22\x20title=\x22Наш\x20Discord\x22><img\x20class=\x22socials-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDtgy.png\x22></a></div>','DID_MOUNT','head','playersMax','contextmenu','connect','height','src','json','Image\x20overflow:','keyCode','addEventListener','rel','<img\x20class=\x22nav-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDs4i.png\x22>','data','CUSTOM_PAGE','nextSibling','17403VhZWXO','https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js','style','LangSwitcher-module__wrapper','Swiper\x20styles\x20injected','PvP\x20набор','forEach','avatar','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22background:#222;\x20padding:10px;\x20border-radius:6px;\x20min-width:\x2080px;\x20text-align:center;\x20box-shadow:\x200\x200\x206px\x20#8000ff;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','description','productsGrid','servers','[data-server-id]','200px','shiftKey','gs-swiper-fallback-container','opacity','count','outerWidth','appReady','\x20не\x20найден!','DOMContentLoaded\x20triggered\x20for\x20styles','.memberCount','https://via.placeholder.com/50','defaultPaymentAmount','firstChild','DOMContentLoaded','find','sans-serif','map','.PlayerMenu-module__loginLink','7550egJYrR','classList','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','parentNode','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20300px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200\x2015px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20visibility:\x20visible\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20transparent\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide-img-wrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide\x20img\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-fit:\x20cover\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-position:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.autoplay-progress\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2016px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2016px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2048px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2048px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--swiper-theme-color,\x20#2cd8a9)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.autoplay-progress\x20svg\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--progress:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-width:\x204px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke:\x20var(--swiper-theme-color,\x20#2cd8a9)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dashoffset:\x20calc(125.6\x20*\x20(1\x20-\x20var(--progress)))\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dasharray:\x20125.6\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20rotate(-90deg)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-next\x20svg,\x20.swiper-button-prev\x20svg\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2050%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2050%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-fit:\x20contain\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform-origin:\x20center\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#7c7c7c\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper-pagination-bullet\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20var(--swiper-pagination-bullet-width,\x20var(--swiper-pagination-bullet-size,\x208px))\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20var(--swiper-pagination-bullet-height,\x20var(--swiper-pagination-bullet-size,\x208px))\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20inline-block\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x20var(--swiper-pagination-bullet-border-radius,\x2050%)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#7c7c7c\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x20var(--swiper-pagination-bullet-inactive-opacity,\x200.2)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-left:\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-right:\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20list-style:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slider-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x201300px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2010px\x20auto\x20!important;\x20/*\x20Небольшой\x20отступ\x20сверху\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200\x2015px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20','999999','onerror','div','catch','display','gs-swiper-styles','SupportLink-module__link','fontFamily','name','Slider\x20inserted\x20after\x20header\x20inside\x20content\x20area','❌\x20Элементы\x20модалки\x20не\x20найдены.\x20Ждём...','querySelector','left','now','warn','length','24px','data-server-id','join','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:12px;\x20color:#fff;\x22>','Нет\x20ответа\x20от\x20сети!','Сервер\x20с\x20ID\x20','fixed','x5,000','marginBottom','initComponentsManager','dataset','Wrapper\x20overflow:','getState','Выдаётся\x20при\x20спавне','Slide\x20border-radius:','.playersMax','column','color:\x20white;\x20background-color:\x20#696969','visible','20px','body','\x20DID_MOUNT\x20triggered\x20for\x20slider','getAttribute','.container.headerContainer','.players','✅\x20Модалка\x20найдена,\x20вешаем\x20обработчики','kitsModal','removeAttribute','hidden','ctrlKey','log','SUPPORT_PAGE','flex','https://discord.com/api/v9/invites/2D456zDGj3?with_counts=true','https://api.allorigins.win/get?url=','167643crWnUG','.Page-module__pageContent','<img\x20class=\x22nav-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDBPO.png\x22>','insertBefore','%c\x20Author:\x20','onclick','swiper-script','componentsManager','none','trim','Discord\x20API\x20error:','zIndex'];_0x4a08=function(){return _0x3d0752;};return _0x4a08();}const _0x2a98fe=_0x33ce;(function(_0x564bf7,_0x1587e6){const _0x3632a5=_0x33ce,_0x40f54e=_0x564bf7();while(!![]){try{const _0x17369=-parseInt(_0x3632a5(0xd6))/0x1*(-parseInt(_0x3632a5(0x14b))/0x2)+parseInt(_0x3632a5(0x8c))/0x3+-parseInt(_0x3632a5(0xb3))/0x4*(-parseInt(_0x3632a5(0xbb))/0x5)+-parseInt(_0x3632a5(0x145))/0x6*(parseInt(_0x3632a5(0x12d))/0x7)+-parseInt(_0x3632a5(0x85))/0x8+parseInt(_0x3632a5(0x13f))/0x9*(-parseInt(_0x3632a5(0xf5))/0xa)+parseInt(_0x3632a5(0x141))/0xb;if(_0x17369===_0x1587e6)break;else _0x40f54e['push'](_0x40f54e['shift']());}catch(_0x57eed0){_0x40f54e['push'](_0x40f54e['shift']());}}}(_0x4a08,0x63e9b),console['log']('%c\x20Version:\x20','color:\x20white;\x20background-color:\x20#f2a358','0.0.1'),console[_0x2a98fe(0x128)](_0x2a98fe(0x131),_0x2a98fe(0x11b),'CyberCold'));const event=new CustomEvent(_0x2a98fe(0xa0));window[_0x2a98fe(0xe0)]=0x4,window[_0x2a98fe(0xb8)]=_0x2a98fe(0x150),window[_0x2a98fe(0xee)]=0x96,window[_0x2a98fe(0xc0)]=!![],window[_0x2a98fe(0x89)]=!![],window['sidebarProfileToRight']=!![],window[_0x2a98fe(0xc4)](event);function loadSwiperLibrary(){const _0x1d3648=_0x2a98fe;if(document[_0x1d3648(0x156)](_0x1d3648(0x133))){console[_0x1d3648(0x128)](_0x1d3648(0x96));return;}var _0x360162=document[_0x1d3648(0x77)](_0x1d3648(0x146));_0x360162['id']=_0x1d3648(0x133),_0x360162[_0x1d3648(0xcc)]=_0x1d3648(0xd7),_0x360162[_0x1d3648(0xfb)]=function(){const _0x5a1017=_0x1d3648;console[_0x5a1017(0x144)](_0x5a1017(0x72)),_0x360162['src']=_0x5a1017(0x94);},_0x360162[_0x1d3648(0x155)]=function(){const _0x17009f=_0x1d3648;console[_0x17009f(0x128)](_0x17009f(0x71));},document[_0x1d3648(0x11e)][_0x1d3648(0x93)](_0x360162);}window['isAppReady']?loadSwiperLibrary():window['addEventListener'](_0x2a98fe(0xe9),()=>{loadSwiperLibrary();});function loadDiscordStats(){const _0x5e3a5c=_0x2a98fe;fetch(_0x5e3a5c(0x12c)+encodeURIComponent(_0x5e3a5c(0x12b)))[_0x5e3a5c(0xb1)](_0xe3bd72=>_0xe3bd72[_0x5e3a5c(0xcd)]())[_0x5e3a5c(0xb1)](_0x262e52=>{const _0x308fe2=_0x5e3a5c,_0xd694d=JSON['parse'](_0x262e52[_0x308fe2(0x95)]),_0x2e9c41=document[_0x308fe2(0x105)](_0x308fe2(0xbf)),_0x42669b=document[_0x308fe2(0x105)](_0x308fe2(0xec));if(_0x2e9c41)_0x2e9c41[_0x308fe2(0x153)]=_0xd694d[_0x308fe2(0xa9)]+'\x20в\x20сети';if(_0x42669b)_0x42669b['textContent']=_0xd694d[_0x308fe2(0x147)]+_0x308fe2(0xb6);})[_0x5e3a5c(0xfd)](_0x54007f=>console[_0x5e3a5c(0x144)](_0x5e3a5c(0x137),_0x54007f));}loadDiscordStats(),setInterval(loadDiscordStats,0x2710);function GSMonit(){const _0x1c16e9=_0x2a98fe;window['dispatchEvent'](new CustomEvent(_0x1c16e9(0x99))),window[_0x1c16e9(0xc4)](new CustomEvent('initComponentsManager'));function _0x4ed3d3(){const _0x42305e=()=>{const _0x3e20dc=_0x33ce;fetch(_0x3e20dc(0x9f))[_0x3e20dc(0xb1)](_0x54692d=>{const _0x47b25f=_0x3e20dc;if(!_0x54692d['ok'])throw new Error(_0x47b25f(0x10e));return _0x54692d[_0x47b25f(0xcd)]();})['then'](_0x52445b=>{const _0x285afa=_0x3e20dc;if(_0x52445b['result']===_0x285afa(0x75)&&_0x52445b[_0x285afa(0xd3)]&&_0x52445b['data'][_0x285afa(0xe1)]){const _0x3b57fe=_0x52445b[_0x285afa(0xd3)][_0x285afa(0xe1)],_0x50a19b={0x9d51:0xe,0x9d52:0x0};document['querySelectorAll'](_0x285afa(0xe2))[_0x285afa(0xdc)](_0x1d7ce6=>{const _0x43b2db=_0x285afa,_0x2967b4=parseInt(_0x1d7ce6[_0x43b2db(0x120)](_0x43b2db(0x10b))),_0x160fbe=_0x3b57fe[_0x43b2db(0xf1)](_0x1d868d=>_0x1d868d['id']===_0x2967b4);if(_0x160fbe){const _0x2738ef=_0x1d7ce6[_0x43b2db(0x105)](_0x43b2db(0x122)),_0x33a03b=_0x1d7ce6['querySelector'](_0x43b2db(0x119)),_0x4920b8=_0x1d7ce6[_0x43b2db(0x105)]('.copybtn'),_0xc86ebb=_0x50a19b[_0x2967b4]??0x0,_0x3299a6=(_0x160fbe[_0x43b2db(0x92)]??0x0)+_0xc86ebb;if(_0x2738ef)_0x2738ef[_0x43b2db(0x153)]=_0x3299a6;if(_0x33a03b)_0x33a03b[_0x43b2db(0x153)]=_0x160fbe[_0x43b2db(0xc8)]??0x0;if(_0x4920b8){let _0x13aec9=_0x160fbe[_0x43b2db(0xca)]??'';!_0x13aec9[_0x43b2db(0x136)]()['startsWith'](_0x43b2db(0xca))&&(_0x13aec9='connect\x20'+_0x13aec9),_0x4920b8['innerText']=_0x13aec9[_0x43b2db(0x136)]();}}else console[_0x43b2db(0x108)](_0x43b2db(0x10f)+_0x2967b4+_0x43b2db(0xea));});}else console[_0x285afa(0x144)](_0x285afa(0x86));})[_0x3e20dc(0xfd)](_0x437269=>console[_0x3e20dc(0x144)]('Ошибка:\x20',_0x437269));};_0x42305e();}[_0x1c16e9(0x13a),_0x1c16e9(0x129),'CUSTOM_PAGE'][_0x1c16e9(0xdc)](_0x4b863e=>window[_0x1c16e9(0x134)][_0x1c16e9(0x140)](_0x4b863e,'DID_MOUNT',()=>{_0x4ed3d3(),setInterval(_0x4ed3d3,0x2710);})),window[_0x1c16e9(0x134)]['load']();}window[_0x2a98fe(0x9d)]?GSMonit():window[_0x2a98fe(0xd0)]('appReady',GSMonit);function GSslider(){const _0x5ec567=_0x2a98fe;window[_0x5ec567(0xc4)](new CustomEvent('initState')),window[_0x5ec567(0xc4)](new CustomEvent(_0x5ec567(0x113)));function _0x5b383e(){const _0x819d06=_0x5ec567;console['log'](_0x819d06(0xba));const _0xbba536='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-container\x20class=\x22gs-swiper-container\x20mySwiper\x22\x20pagination=\x22true\x22\x20pagination-clickable=\x22true\x22\x20navigation=\x22true\x22\x20space-between=\x2230\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20centered-slides=\x22true\x22\x20autoplay-delay=\x225000\x22\x20autoplay-disable-on-interaction=\x22false\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-slide\x20class=\x22gs-swiper-slide\x22><div\x20class=\x22gs-swiper-slide-img-wrapper\x22><img\x20src=\x22https://gspics.org/images/2024/02/23/0bZXu7.png\x22></div></swiper-slide>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-slide\x20class=\x22gs-swiper-slide\x22><div\x20class=\x22gs-swiper-slide-img-wrapper\x22><img\x20src=\x22https://gspics.org/images/2024/02/15/0bi9NR.png\x22></div></swiper-slide>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22autoplay-progress\x22\x20slot=\x22container-end\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20viewBox=\x220\x200\x2048\x2048\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2224\x22\x20cy=\x2224\x22\x20r=\x2220\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</swiper-container>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';let _0x1cbb9d=document['querySelector'](_0x819d06(0x14f))||document[_0x819d06(0x105)](_0x819d06(0x12e));!_0x1cbb9d&&(console[_0x819d06(0x108)]('Main\x20or\x20.Page-module__pageContent\x20not\x20found,\x20creating\x20fallback\x20container'),_0x1cbb9d=document['createElement'](_0x819d06(0xfc)),_0x1cbb9d[_0x819d06(0xaf)]=_0x819d06(0xe5),document[_0x819d06(0x11e)][_0x819d06(0x93)](_0x1cbb9d));console[_0x819d06(0x128)](_0x819d06(0x142),_0x1cbb9d);if(document[_0x819d06(0x105)](_0x819d06(0x6f))){console['log'](_0x819d06(0x81));return;}const _0xf86db9=document[_0x819d06(0x77)](_0x819d06(0xfc));_0xf86db9[_0x819d06(0xaf)]='gs-swiper-slider-container',_0xf86db9[_0x819d06(0xc3)]=_0xbba536;const _0x4a9d3c=document[_0x819d06(0x105)](_0x819d06(0x121))||document[_0x819d06(0x105)](_0x819d06(0x79))||document[_0x819d06(0x105)]('header')||document['querySelector'](_0x819d06(0x84));_0x4a9d3c?(console[_0x819d06(0x128)]('Header\x20found:',_0x4a9d3c),console[_0x819d06(0x128)](_0x819d06(0xbd),_0x4a9d3c[_0x819d06(0xf8)]),_0x4a9d3c[_0x819d06(0xf8)]===_0x1cbb9d?(_0x1cbb9d[_0x819d06(0x130)](_0xf86db9,_0x4a9d3c[_0x819d06(0xd5)]),console[_0x819d06(0x128)](_0x819d06(0x103))):(_0x4a9d3c['parentNode'][_0x819d06(0x130)](_0xf86db9,_0x4a9d3c[_0x819d06(0xd5)]),console['log'](_0x819d06(0xb7)))):(_0x1cbb9d[_0x819d06(0x130)](_0xf86db9,_0x1cbb9d[_0x819d06(0xef)]),console[_0x819d06(0x108)](_0x819d06(0x152))),setTimeout(()=>{const _0x163b19=_0x819d06,_0x30834f=document[_0x163b19(0x105)]('.gs-swiper-slide-img-wrapper\x20img'),_0x4813bd=document['querySelector']('.gs-swiper-slide');if(_0x30834f&&_0x4813bd){const _0xb6e0ad=window['getComputedStyle'](_0x30834f),_0x2a6f7f=window[_0x163b19(0xa4)](_0x4813bd);console['log'](_0x163b19(0xa5),_0xb6e0ad[_0x163b19(0x13e)]),console[_0x163b19(0x128)](_0x163b19(0x118),_0x2a6f7f['borderRadius']),console[_0x163b19(0x128)](_0x163b19(0xce),_0xb6e0ad[_0x163b19(0x7a)]),console[_0x163b19(0x128)](_0x163b19(0x115),window[_0x163b19(0xa4)](_0x30834f[_0x163b19(0x14d)])[_0x163b19(0x7a)]);}else console[_0x163b19(0x144)](_0x163b19(0xbc));},0x3e8);}[_0x5ec567(0x13a),_0x5ec567(0x129),'CUSTOM_PAGE'][_0x5ec567(0xdc)](_0x3f3429=>{const _0x20556c=_0x5ec567;window[_0x20556c(0x134)][_0x20556c(0x140)](_0x3f3429,_0x20556c(0xc6),()=>{const _0x3b335a=_0x20556c;console[_0x3b335a(0x128)](_0x3f3429+_0x3b335a(0x11f)),_0x5b383e();});}),document[_0x5ec567(0xd0)](_0x5ec567(0xf0),()=>{const _0x14f741=_0x5ec567;console[_0x14f741(0x128)](_0x14f741(0x76)),_0x5b383e();}),window['componentsManager'][_0x5ec567(0xbe)]();}window[_0x2a98fe(0x9d)]?GSslider():window['addEventListener']('appReady',()=>{GSslider();});function loadSwiperStyles(){const _0x1b5862=_0x2a98fe;window['dispatchEvent'](new CustomEvent(_0x1b5862(0x99))),window[_0x1b5862(0xc4)](new CustomEvent(_0x1b5862(0x113)));function _0x452afa(){const _0x63a50e=_0x1b5862;console[_0x63a50e(0x128)](_0x63a50e(0x143));if(document[_0x63a50e(0x156)](_0x63a50e(0xff))){console[_0x63a50e(0x128)]('Swiper\x20styles\x20already\x20loaded');return;}const _0x1507d1=document[_0x63a50e(0x77)]('style');_0x1507d1['id']=_0x63a50e(0xff),_0x1507d1['textContent']=_0x63a50e(0xf9),document[_0x63a50e(0xc7)][_0x63a50e(0x93)](_0x1507d1),console['log'](_0x63a50e(0xda));}[_0x1b5862(0x13a),_0x1b5862(0x129),_0x1b5862(0xd4)]['forEach'](_0x144cee=>{const _0x4ce3aa=_0x1b5862;window['componentsManager'][_0x4ce3aa(0x140)](_0x144cee,_0x4ce3aa(0xc6),()=>{const _0x4f606=_0x4ce3aa;console[_0x4f606(0x128)](_0x144cee+_0x4f606(0xa3)),_0x452afa();});}),document[_0x1b5862(0xd0)](_0x1b5862(0xf0),()=>{const _0x410859=_0x1b5862;console[_0x410859(0x128)](_0x410859(0xeb)),_0x452afa();}),window[_0x1b5862(0x134)][_0x1b5862(0xbe)]();}window[_0x2a98fe(0x9d)]?loadSwiperStyles():window['addEventListener'](_0x2a98fe(0xe9),()=>{loadSwiperStyles();});var jqueryScript=document[_0x2a98fe(0x77)](_0x2a98fe(0x146));jqueryScript[_0x2a98fe(0xcc)]=_0x2a98fe(0x91),document[_0x2a98fe(0x11e)][_0x2a98fe(0xb4)](jqueryScript);function useravatar(){const _0x3afc41=_0x2a98fe;window[_0x3afc41(0xc4)](new CustomEvent(_0x3afc41(0x99))),window['dispatchEvent'](new CustomEvent(_0x3afc41(0x113))),window[_0x3afc41(0x134)][_0x3afc41(0x140)](_0x3afc41(0x73),_0x3afc41(0xc6),()=>{const _0x1ab912=_0x3afc41,{player:_0x1c6a60}=window[_0x1ab912(0x116)]()[_0x1ab912(0x139)];if(!_0x1c6a60)return;const _0x32d27d='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-avatar\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22user-avatar-pic\x22\x20src=\x22'+_0x1c6a60[_0x1ab912(0xdd)]+_0x1ab912(0x74),_0x1434f5=document[_0x1ab912(0x105)](_0x1ab912(0x9e));_0x1434f5['insertAdjacentHTML'](_0x1ab912(0xc2),_0x32d27d);}),window[_0x3afc41(0x134)]['load']();}window['isAppReady']?useravatar():window[_0x2a98fe(0xd0)](_0x2a98fe(0xe9),()=>{useravatar();});function GSiconlogin(){const _0x259fff=_0x2a98fe;window[_0x259fff(0xc4)](new CustomEvent(_0x259fff(0x99))),window[_0x259fff(0xc4)](new CustomEvent('initComponentsManager'));function _0x481f9f(){const _0x37d698=_0x259fff,_0x44dfcc=document[_0x37d698(0x82)](_0x37d698(0xf4)),_0x2833e2=[{'src':_0x37d698(0x90),'id':'user-icon'}];_0x44dfcc[_0x37d698(0xdc)]((_0x2aa370,_0x2aa51e)=>{const _0x2e049f=_0x37d698;if(_0x2aa51e<_0x2833e2[_0x2e049f(0x109)]){const _0x1326f9=document[_0x2e049f(0x77)]('img');_0x1326f9[_0x2e049f(0xcc)]=_0x2833e2[_0x2aa51e][_0x2e049f(0xcc)],_0x1326f9['id']=_0x2833e2[_0x2aa51e]['id'];const _0x39bb32=document['createElement']('div');_0x39bb32[_0x2e049f(0x93)](_0x1326f9),_0x2aa370[_0x2e049f(0x93)](_0x39bb32);}});}window[_0x259fff(0x134)][_0x259fff(0x140)](_0x259fff(0x73),_0x259fff(0xc6),()=>{_0x481f9f();}),window['componentsManager'][_0x259fff(0xbe)]();}window[_0x2a98fe(0x9d)]?GSiconlogin():window[_0x2a98fe(0xd0)](_0x2a98fe(0xe9),()=>{GSiconlogin();});function _0x33ce(_0x8b38ad,_0x2ba8cd){const _0x4a08ef=_0x4a08();return _0x33ce=function(_0x33ce40,_0x3b2bf4){_0x33ce40=_0x33ce40-0x6f;let _0x22f264=_0x4a08ef[_0x33ce40];return _0x22f264;},_0x33ce(_0x8b38ad,_0x2ba8cd);}function GSiconprofile(){const _0x3731c7=_0x2a98fe;window[_0x3731c7(0xc4)](new CustomEvent(_0x3731c7(0x99))),window[_0x3731c7(0xc4)](new CustomEvent(_0x3731c7(0x113)));function _0x247c0d(){const _0x40fbd5=_0x3731c7,_0x3d9be4=document[_0x40fbd5(0x82)](_0x40fbd5(0x9e)),_0x337916=[{'src':_0x40fbd5(0x13c),'id':'user-icon'}];_0x3d9be4[_0x40fbd5(0xdc)]((_0x385da3,_0x9bf291)=>{const _0x1e8f93=_0x40fbd5;if(_0x9bf291<_0x337916[_0x1e8f93(0x109)]){const _0x134b45=document[_0x1e8f93(0x77)]('img');_0x134b45['src']=_0x337916[_0x9bf291][_0x1e8f93(0xcc)],_0x134b45['id']=_0x337916[_0x9bf291]['id'];const _0x20c0a1=document['createElement'](_0x1e8f93(0xfc));_0x20c0a1[_0x1e8f93(0x93)](_0x134b45),_0x385da3[_0x1e8f93(0x93)](_0x20c0a1);}});}window[_0x3731c7(0x134)][_0x3731c7(0x140)](_0x3731c7(0x73),_0x3731c7(0xc6),()=>{_0x247c0d();}),window['componentsManager']['load']();}window[_0x2a98fe(0x9d)]?GSiconprofile():window['addEventListener'](_0x2a98fe(0xe9),()=>{GSiconprofile();});function GSicons(){const _0x2ab5fb=_0x2a98fe;window[_0x2ab5fb(0xc4)](new CustomEvent(_0x2ab5fb(0x99))),window[_0x2ab5fb(0xc4)](new CustomEvent(_0x2ab5fb(0x113)));function _0x33c571(){const _0x50a1ff=_0x2ab5fb;var _0x3ce229=document[_0x50a1ff(0x9a)](_0x50a1ff(0x8b))[0x0],_0x14bc48=_0x50a1ff(0x12f);_0x3ce229[_0x50a1ff(0xc3)]+=_0x14bc48;var _0x3ce229=document[_0x50a1ff(0x9a)](_0x50a1ff(0x100))[0x0],_0x14bc48=_0x50a1ff(0xd2);_0x3ce229[_0x50a1ff(0xc3)]+=_0x14bc48;}window['componentsManager']['addListener'](_0x2ab5fb(0x73),_0x2ab5fb(0xc6),()=>{_0x33c571();}),window['componentsManager'][_0x2ab5fb(0xbe)]();}window['isAppReady']?GSicons():window[_0x2a98fe(0xd0)]('appReady',()=>{GSicons();});function GSiconbalance(){const _0x40fa60=_0x2a98fe;window[_0x40fa60(0xc4)](new CustomEvent('initState')),window[_0x40fa60(0xc4)](new CustomEvent(_0x40fa60(0x113)));function _0x122a8d(){const _0x160ed1=_0x40fa60,_0x15526a=document[_0x160ed1(0x82)]('.PlayerBalance-module__wrapper\x20button'),_0x65884=[{'src':_0x160ed1(0xa7),'id':_0x160ed1(0x148)}];_0x15526a['forEach']((_0xed75ee,_0x5c222a)=>{const _0x4020a9=_0x160ed1;if(_0x5c222a<_0x65884[_0x4020a9(0x109)]){const _0x576705=document['createElement']('img');_0x576705[_0x4020a9(0xcc)]=_0x65884[_0x5c222a][_0x4020a9(0xcc)],_0x576705['id']=_0x65884[_0x5c222a]['id'];const _0x77ee60=document[_0x4020a9(0x77)]('div');_0x77ee60[_0x4020a9(0x93)](_0x576705),_0xed75ee[_0x4020a9(0x93)](_0x77ee60);}});}window[_0x40fa60(0x134)][_0x40fa60(0x140)](_0x40fa60(0x73),_0x40fa60(0xc6),()=>{_0x122a8d();}),window['componentsManager'][_0x40fa60(0xbe)]();}window['isAppReady']?GSiconbalance():window['addEventListener']('appReady',()=>{GSiconbalance();});function GSiconssocials(){const _0x44a771=_0x2a98fe;window[_0x44a771(0xc4)](new CustomEvent('initState')),window[_0x44a771(0xc4)](new CustomEvent(_0x44a771(0x113)));function _0x1d44b7(){const _0x32d0a1=_0x44a771;var _0x2e7d51=document[_0x32d0a1(0x9a)](_0x32d0a1(0xd9))[0x0],_0x31cc4c=_0x32d0a1(0xc5);_0x2e7d51['innerHTML']+=_0x31cc4c;}window['componentsManager'][_0x44a771(0x140)](_0x44a771(0x73),'DID_MOUNT',()=>{_0x1d44b7();}),window[_0x44a771(0x134)][_0x44a771(0xbe)]();}window['isAppReady']?GSiconssocials():window['addEventListener']('appReady',()=>{GSiconssocials();});console[_0x2a98fe(0x128)]('%c\x20Kits\x20Init','color:\x20white;\x20background:\x20#f2a358');const ALL_KITS={'СПАВН':{'description':_0x2a98fe(0x117),'items':[{'image':'https://via.placeholder.com/50','count':_0x2a98fe(0x111),'name':'5.56\x20(обычные)'},{'image':_0x2a98fe(0xed),'count':'x1','name':'Калаш'}]},'ПВП':{'description':_0x2a98fe(0xdb),'items':[{'image':'https://via.placeholder.com/50','count':_0x2a98fe(0x78),'name':_0x2a98fe(0x80)},{'image':_0x2a98fe(0xed),'count':'x1','name':_0x2a98fe(0x8f)}]}};let initialized=![],modalOpenedByButton=![];function initKitsModal(){const _0xce5b9=_0x2a98fe;if(initialized)return!![];const _0x4534b4=document[_0xce5b9(0x156)](_0xce5b9(0x124)),_0x96a32d=document[_0xce5b9(0x156)](_0xce5b9(0x98)),_0x5aa1d5=document[_0xce5b9(0x156)](_0xce5b9(0x8e));if(!_0x4534b4||!_0x96a32d||!_0x5aa1d5)return console[_0xce5b9(0x128)](_0xce5b9(0x104)),![];console[_0xce5b9(0x128)](_0xce5b9(0x123)),_0x4534b4[_0xce5b9(0xd8)]['display']=_0xce5b9(0x135),document['body']['style'][_0xce5b9(0x7a)]='',_0x5aa1d5[_0xce5b9(0x132)]=()=>{const _0x2dbd12=_0xce5b9;_0x4534b4[_0x2dbd12(0xd8)][_0x2dbd12(0xfe)]=_0x2dbd12(0x135),document[_0x2dbd12(0x11e)][_0x2dbd12(0xd8)]['overflow']='',modalOpenedByButton=![];},_0x4534b4[_0xce5b9(0x132)]=_0x433bff=>{const _0x333df1=_0xce5b9;_0x433bff[_0x333df1(0xaa)]===_0x4534b4&&(_0x4534b4[_0x333df1(0xd8)][_0x333df1(0xfe)]=_0x333df1(0x135),document[_0x333df1(0x11e)][_0x333df1(0xd8)][_0x333df1(0x7a)]='',modalOpenedByButton=![]);},document[_0xce5b9(0x82)](_0xce5b9(0xb9))[_0xce5b9(0xdc)](_0x26d91c=>{const _0xb7856a=_0xce5b9;_0x26d91c[_0xb7856a(0x132)]=()=>{const _0x17e9c8=_0xb7856a,_0x1539d3=_0x26d91c[_0x17e9c8(0x114)]['kits'];if(!_0x1539d3)return;const _0x4854fa=_0x1539d3[_0x17e9c8(0x14c)](',')[_0x17e9c8(0xf3)](_0x429890=>_0x429890[_0x17e9c8(0x136)]());_0x96a32d[_0x17e9c8(0xc3)]='',_0x4854fa[_0x17e9c8(0xdc)](_0x55176d=>{const _0x15e190=_0x17e9c8,_0x41ca82=ALL_KITS[_0x55176d];if(!_0x41ca82)return;const _0x2fab5b=document[_0x15e190(0x77)](_0x15e190(0xfc));_0x2fab5b['style']['marginBottom']=_0x15e190(0x11d),_0x2fab5b['innerHTML']=_0x15e190(0x7b)+_0x55176d+'</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:inline-block;\x20background:#8000ff;\x20color:#fff;\x20border-radius:4px;\x20padding:4px\x208px;\x20font-size:12px;\x20box-shadow:\x200\x200\x208px\x20#8000ff;\x20margin-bottom:10px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x41ca82[_0x15e190(0xdf)]+_0x15e190(0xa8)+_0x41ca82[_0x15e190(0xad)]['map'](_0x2260ef=>_0x15e190(0xde)+_0x2260ef[_0x15e190(0x157)]+_0x15e190(0xa1)+_0x2260ef[_0x15e190(0xe7)]+_0x15e190(0x10d)+_0x2260ef[_0x15e190(0x102)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')[_0x15e190(0x10c)]('')+_0x15e190(0xf7),_0x96a32d['appendChild'](_0x2fab5b);}),_0x4534b4['style'][_0x17e9c8(0xfe)]=_0x17e9c8(0x12a),document['body'][_0x17e9c8(0xd8)][_0x17e9c8(0x7a)]=_0x17e9c8(0x126),modalOpenedByButton=!![];};});const _0xd4a2a9=new MutationObserver(()=>{const _0x1d89df=_0xce5b9;_0x4534b4[_0x1d89df(0xd8)]['display']==='flex'&&!modalOpenedByButton&&(_0x4534b4[_0x1d89df(0xd8)][_0x1d89df(0xfe)]='none',document['body']['style'][_0x1d89df(0x7a)]='',console[_0x1d89df(0x128)](_0x1d89df(0xae)));});return _0xd4a2a9[_0xce5b9(0x7c)](_0x4534b4,{'attributes':!![],'attributeFilter':['style']}),initialized=!![],!![];}const observer=new MutationObserver(()=>{const _0x4ddf18=initKitsModal();if(_0x4ddf18)observer['disconnect']();});observer[_0x2a98fe(0x7c)](document[_0x2a98fe(0x11e)],{'childList':!![],'subtree':!![]}),console[_0x2a98fe(0x128)](_0x2a98fe(0x7d),_0x2a98fe(0xac)),document[_0x2a98fe(0xd0)]('mouseover',function(_0x502ba3){const _0x2dc1d1=_0x2a98fe;if(_0x502ba3[_0x2dc1d1(0xaa)][_0x2dc1d1(0xf6)][_0x2dc1d1(0x151)](_0x2dc1d1(0xc1))){const _0x48baf1=_0x502ba3['target']['nextElementSibling'];_0x48baf1[_0x2dc1d1(0xd8)]['visibility']=_0x2dc1d1(0x11c),_0x48baf1[_0x2dc1d1(0xd8)][_0x2dc1d1(0xe6)]='1';}}),document[_0x2a98fe(0xd0)](_0x2a98fe(0xb2),function(_0x5394f8){const _0x1333cb=_0x2a98fe;if(_0x5394f8['target'][_0x1333cb(0xf6)][_0x1333cb(0x151)](_0x1333cb(0xc1))){const _0x468a35=_0x5394f8[_0x1333cb(0xaa)][_0x1333cb(0x7f)];_0x468a35[_0x1333cb(0xd8)][_0x1333cb(0x83)]=_0x1333cb(0x126),_0x468a35[_0x1333cb(0xd8)][_0x1333cb(0xe6)]='0';}}),(function(){const _0x449c83=_0x2a98fe;var _0x1f3aee=![],_0x18decb='⛔\x20Доступ\x20к\x20коду\x20заблокирован!',_0x3f2f8c=_0x449c83(0x14e);document[_0x449c83(0xd0)](_0x449c83(0xc9),function(_0x27121a){const _0x5cb90f=_0x449c83;_0x27121a[_0x5cb90f(0x8a)]();}),document[_0x449c83(0xd0)]('selectstart',function(_0x5d6cc2){const _0x1866b4=_0x449c83;_0x5d6cc2[_0x1866b4(0x8a)]();}),document[_0x449c83(0xd0)](_0x449c83(0x13d),function(_0x4df076){const _0x1c35ff=_0x449c83;_0x4df076[_0x1c35ff(0x8a)]();}),document[_0x449c83(0xd0)]('keydown',function(_0x374965){const _0x405248=_0x449c83;if(_0x374965[_0x405248(0xcf)]===0x7b)_0x374965[_0x405248(0x8a)]();if(_0x374965[_0x405248(0x127)]&&_0x374965[_0x405248(0xcf)]===0x55)_0x374965[_0x405248(0x8a)]();if(_0x374965[_0x405248(0x127)]&&_0x374965['keyCode']===0x53)_0x374965[_0x405248(0x8a)]();if(_0x374965[_0x405248(0x127)]&&_0x374965[_0x405248(0xe4)]&&(_0x374965[_0x405248(0xcf)]===0x49||_0x374965[_0x405248(0xcf)]===0x4a||_0x374965[_0x405248(0xcf)]===0x43))_0x374965[_0x405248(0x8a)]();});function _0x36f449(){const _0x160226=_0x449c83;if(_0x1f3aee)return;_0x1f3aee=!![],[_0x160226(0x146),_0x160226(0xd8),_0x160226(0x88)]['forEach'](function(_0x489dde){const _0x32b936=_0x160226;var _0x408f31=document[_0x32b936(0x7e)](_0x489dde);for(var _0x25f8e6=_0x408f31['length']-0x1;_0x25f8e6>=0x0;_0x25f8e6--){if(_0x489dde==='link'&&_0x408f31[_0x25f8e6][_0x32b936(0xd1)]!==_0x32b936(0x8d))continue;if(_0x408f31[_0x25f8e6]['parentNode'])_0x408f31[_0x25f8e6][_0x32b936(0xf8)]['removeChild'](_0x408f31[_0x25f8e6]);}}),document[_0x160226(0x11e)][_0x160226(0x125)](_0x160226(0xd8)),document[_0x160226(0xc7)][_0x160226(0x125)](_0x160226(0xd8)),document[_0x160226(0x11e)][_0x160226(0xc3)]='';var _0x3acb19=document['createElement']('div');_0x3acb19[_0x160226(0xd8)]['position']=_0x160226(0x110),_0x3acb19[_0x160226(0xd8)]['top']='0',_0x3acb19['style'][_0x160226(0x106)]='0',_0x3acb19[_0x160226(0xd8)]['width']=_0x160226(0x9b),_0x3acb19[_0x160226(0xd8)][_0x160226(0xcb)]='100%',_0x3acb19['style'][_0x160226(0x149)]=_0x160226(0x97),_0x3acb19[_0x160226(0xd8)][_0x160226(0x13b)]=_0x160226(0x14a),_0x3acb19['style'][_0x160226(0xfe)]='flex',_0x3acb19[_0x160226(0xd8)][_0x160226(0x70)]=_0x160226(0x11a),_0x3acb19['style'][_0x160226(0xa2)]='center',_0x3acb19[_0x160226(0xd8)][_0x160226(0xb5)]='center',_0x3acb19['style'][_0x160226(0x138)]=_0x160226(0xfa);var _0x4576a7=document[_0x160226(0x77)](_0x160226(0x9c));_0x4576a7[_0x160226(0xcc)]=_0x3f2f8c,_0x4576a7['style']['maxWidth']=_0x160226(0xe3),_0x4576a7['style'][_0x160226(0x112)]=_0x160226(0x11d);var _0x55aa1b=document[_0x160226(0x77)](_0x160226(0xfc));_0x55aa1b[_0x160226(0xd8)][_0x160226(0xab)]=_0x160226(0x10a),_0x55aa1b[_0x160226(0xd8)][_0x160226(0x101)]=_0x160226(0xf2),_0x55aa1b['textContent']=_0x18decb,_0x3acb19[_0x160226(0x93)](_0x4576a7),_0x3acb19[_0x160226(0x93)](_0x55aa1b),document[_0x160226(0x11e)][_0x160226(0x93)](_0x3acb19);}var _0x31b14f=![];function _0x4fc3ac(){const _0x50f1be=_0x449c83;var _0x11b08c=Date[_0x50f1be(0x107)](),_0x239469=new Image();Object['defineProperty'](_0x239469,'id',{'get':function(){const _0x5f4c8d=_0x50f1be;var _0x4cd80f=Date[_0x5f4c8d(0x107)]()-_0x11b08c;return _0x4cd80f>0x64&&(!_0x31b14f&&(_0x31b14f=!![],_0x36f449())),'';}}),console[_0x50f1be(0x128)](_0x239469);}function _0x28ea5b(){const _0x1e4103=_0x449c83;var _0x4a4150=Date[_0x1e4103(0x107)]();try{Function('')();}catch(_0x20af11){}var _0x5e8a44=Date[_0x1e4103(0x107)]()-_0x4a4150;_0x5e8a44>0x64&&(!_0x31b14f&&(_0x31b14f=!![],_0x36f449()));}var _0x1466da={'widthDiff':0x0,'heightDiff':0x0};function _0x1a5c33(){const _0x19b6d4=_0x449c83;var _0x59bafb=window[_0x19b6d4(0xe8)]-window[_0x19b6d4(0x154)],_0x3de9e2=window[_0x19b6d4(0xb0)]-window['innerHeight'],_0xb88f22=0xa0;(_0x59bafb>_0xb88f22&&Math[_0x19b6d4(0x87)](_0x59bafb-_0x1466da[_0x19b6d4(0xa6)])>0x14||_0x3de9e2>_0xb88f22&&Math[_0x19b6d4(0x87)](_0x3de9e2-_0x1466da['heightDiff'])>0x14)&&(!_0x31b14f&&(_0x31b14f=!![],_0x36f449())),_0x1466da={'widthDiff':_0x59bafb,'heightDiff':_0x3de9e2};}setInterval(_0x4fc3ac,0x3e8),setInterval(_0x28ea5b,0x5dc),setInterval(_0x1a5c33,0x7d0);}());
+console.log('%c Version: ', 'color: white; background-color: #f2a358', '0.0.1');
+console.log('%c Author: ', 'color: white; background-color: #696969', 'CyberCold');
+
+
+// [Конфиг магазина]
+const event = new CustomEvent("setCustomConfig")
+window.productsGrid = 4; // Устанавливает сетку продуктов 
+window.currency = 'руб' // Устанавливает кастомную валюту
+window.defaultPaymentAmount = 150 // Устанавливает значение для пополнения по умолчанию
+window.zeroToFree = true // Заменяет 0 на бесплатно
+window.sidebarStoreToRight = true // Устанавливает виджеты справа
+window.sidebarProfileToRight = true // Устанавливает навигацию в профиле справа
+window.dispatchEvent(event);
+// [/Конфиг магазина]
+
+// [Загрузка Swiper библиотеки]
+function loadSwiperLibrary() {
+    if (document.getElementById('swiper-script')) {
+        console.log('Swiper library already loaded');
+        return;
+    }
+    var swiperScript = document.createElement("script");
+    swiperScript.id = 'swiper-script';
+    swiperScript.src = "https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js";
+    swiperScript.onerror = function() {
+        console.error('Failed to load Swiper from CDN, trying fallback');
+        swiperScript.src = "https://unpkg.com/swiper@11/swiper-element-bundle.min.js";
+    };
+    swiperScript.onload = function() {
+        console.log('Swiper library loaded successfully');
+    };
+    document.body.appendChild(swiperScript);
+}
+
+if (window.isAppReady) {
+    loadSwiperLibrary();
+} else {
+    window.addEventListener('appReady', () => {
+        loadSwiperLibrary();
+    });
+}
+// [/Загрузка Swiper библиотеки]
+
+// [Настройка виджета Discord]
+function loadDiscordStats() {
+  fetch(`https://api.allorigins.win/get?url=${encodeURIComponent('https://discord.com/api/v9/invites/2D456zDGj3?with_counts=true')}`)
+    .then(response => response.json())
+    .then(data => {
+      const parsed = JSON.parse(data.contents);
+      const presenceCountElement = document.querySelector('.presenceCount');
+      const memberCountElement = document.querySelector('.memberCount');
+
+      if (presenceCountElement) presenceCountElement.textContent = `${parsed.approximate_presence_count} в сети`;
+      if (memberCountElement) memberCountElement.textContent = `${parsed.approximate_member_count} участ.`;
+    })
+    .catch(err => console.error('Discord API error:', err));
+}
+
+loadDiscordStats();
+setInterval(loadDiscordStats, 10000);
+// [/Настройка виджета Discord]
+
+
+// [Настройка виджета мониторинга для нескольких серверов]
+
+function GSMonit() {
+  window.dispatchEvent(new CustomEvent("initState"));
+  window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+  function monit() {
+    const fetchDataServers = () => {
+      fetch('https://testmelon.gamestores.app/api/v1/widgets.monitoring')
+        .then(response => {
+          if (!response.ok) throw new Error('Нет ответа от сети!');
+          return response.json();
+        })
+        .then(data => {
+          if (data.result === "success" && data.data && data.data.servers) {
+            const servers = data.data.servers;
+
+            // Здесь задаёшь фейковые бусты по ID сервера
+            const fakeBoosts = {
+              40273: 14,
+              40274: 0
+            };
+
+            document.querySelectorAll('[data-server-id]').forEach(widget => {
+              const serverID = parseInt(widget.getAttribute('data-server-id'));
+              const server = servers.find(s => s.id === serverID);
+
+              if (server) {
+                const playersElement = widget.querySelector('.players');
+                const playersMaxElement = widget.querySelector('.playersMax');
+                const connectBtn = widget.querySelector('.copybtn');
+
+                // Применяем фейк буст
+                const boost = fakeBoosts[serverID] ?? 0;
+                const shownPlayers = (server.players ?? 0) + boost;
+
+                if (playersElement) playersElement.textContent = shownPlayers;
+                if (playersMaxElement) playersMaxElement.textContent = server.playersMax ?? 0;
+
+                if (connectBtn) {
+                  let connectAddress = server.connect ?? '';
+                  if (!connectAddress.trim().startsWith('connect')) {
+                    connectAddress = `connect ${connectAddress}`;
+                  }
+                  connectBtn.innerText = connectAddress.trim();
+                }
+              } else {
+                console.warn(`Сервер с ID ${serverID} не найден!`);
+              }
+            });
+
+          } else {
+            console.error('Некорректные данные!');
+          }
+        })
+        .catch(error => console.error('Ошибка: ', error));
+    };
+
+    fetchDataServers();
+  }
+
+  ['SHOP_PAGE', 'SUPPORT_PAGE', 'CUSTOM_PAGE'].forEach(page =>
+    window.componentsManager.addListener(page, 'DID_MOUNT', () => {
+      monit();
+      setInterval(monit, 10000);
+    })
+  );
+
+  window.componentsManager.load();
+}
+
+if (window.isAppReady) {
+  GSMonit();
+} else {
+  window.addEventListener('appReady', GSMonit);
+}
+
+// [/Настройка виджета мониторинга]
+
+// [Слайдер]
+function GSslider() {
+    window.dispatchEvent(new CustomEvent("initState"));
+    window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+    function initializeSlider() {
+        console.log('Attempting to initialize slider');
+        const slider = `
+            <swiper-container class="gs-swiper-container mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="30"
+                centered-slides="true" autoplay-delay="5000" autoplay-disable-on-interaction="false">
+                <swiper-slide class="gs-swiper-slide"><div class="gs-swiper-slide-img-wrapper"><img src="https://gspics.org/images/2024/02/23/0bZXu7.png"></div></swiper-slide>
+                <swiper-slide class="gs-swiper-slide"><div class="gs-swiper-slide-img-wrapper"><img src="https://gspics.org/images/2024/02/15/0bi9NR.png"></div></swiper-slide>
+                <div class="autoplay-progress" slot="container-end">
+                    <svg viewBox="0 0 48 48">
+                        <circle cx="24" cy="24" r="20"></circle>
+                    </svg>
+                    <span></span>
+                </div>
+            </swiper-container>
+        `;
+        
+        let contentArea = document.querySelector('main') || document.querySelector('.Page-module__pageContent');
+        if (!contentArea) {
+            console.warn('Main or .Page-module__pageContent not found, creating fallback container');
+            contentArea = document.createElement('div');
+            contentArea.className = 'gs-swiper-fallback-container';
+            document.body.appendChild(contentArea); // Изменили prepend на append
+        }
+        console.log('Content area found:', contentArea);
+
+        if (document.querySelector('.gs-swiper-container')) {
+            console.log('Slider already exists, skipping');
+            return;
+        }
+
+        const sliderContainer = document.createElement('div');
+        sliderContainer.className = 'gs-swiper-slider-container';
+        sliderContainer.innerHTML = slider;
+
+        // Попробуем найти шапку через разные селекторы
+        const header = document.querySelector('.container.headerContainer') || 
+                      document.querySelector('.Header-module__wrapper') || 
+                      document.querySelector('header') || 
+                      document.querySelector('[class*="header"]');
+        
+        if (header) {
+            console.log('Header found:', header);
+            console.log('Header parent:', header.parentNode);
+            // Если шапка в contentArea, вставляем после неё
+            if (header.parentNode === contentArea) {
+                contentArea.insertBefore(sliderContainer, header.nextSibling);
+                console.log('Slider inserted after header inside content area');
+            } else {
+                // Если шапка вне contentArea (например, в body), вставляем после неё в body
+                header.parentNode.insertBefore(sliderContainer, header.nextSibling);
+                console.log('Slider inserted after header in parent (likely body)');
+            }
+        } else {
+            // Если шапка не найдена, вставляем в начало contentArea
+            contentArea.insertBefore(sliderContainer, contentArea.firstChild);
+            console.warn('Header not found, slider inserted at top of content area');
+        }
+
+        // Дебаг: логируем примененные стили
+        setTimeout(() => {
+            const img = document.querySelector('.gs-swiper-slide-img-wrapper img');
+            const slide = document.querySelector('.gs-swiper-slide');
+            if (img && slide) {
+                const imgStyles = window.getComputedStyle(img);
+                const slideStyles = window.getComputedStyle(slide);
+                console.log('Image border-radius:', imgStyles.borderRadius);
+                console.log('Slide border-radius:', slideStyles.borderRadius);
+                console.log('Image overflow:', imgStyles.overflow);
+                console.log('Wrapper overflow:', window.getComputedStyle(img.parentElement).overflow);
+            } else {
+                console.error('Image or slide not found for debugging');
+            }
+        }, 1000); // Даем время на рендеринг
+    }
+
+    ['SHOP_PAGE', 'SUPPORT_PAGE', 'CUSTOM_PAGE'].forEach(page => {
+        window.componentsManager.addListener(page, 'DID_MOUNT', () => {
+            console.log(`${page} DID_MOUNT triggered for slider`);
+            initializeSlider();
+        });
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        console.log('DOMContentLoaded triggered for slider');
+        initializeSlider();
+    });
+
+    window.componentsManager.load();
+}
+
+if (window.isAppReady) {
+    GSslider();
+} else {
+    window.addEventListener('appReady', () => {
+        GSslider();
+    });
+}
+// [/Слайдер]
+
+// [Загрузка стилей для Swiper]
+function loadSwiperStyles() {
+    window.dispatchEvent(new CustomEvent("initState"));
+    window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+    function injectStyles() {
+        console.log('Loading Swiper styles');
+        if (document.getElementById('gs-swiper-styles')) {
+            console.log('Swiper styles already loaded');
+            return;
+        }
+
+        const styleElement = document.createElement('style');
+        styleElement.id = 'gs-swiper-styles';
+        styleElement.textContent = `
+            .gs-swiper-container {
+                width: 100%;
+                height: 300px;
+                margin: 0 auto !important;
+                padding: 0 15px !important;
+                position: relative !important;
+                z-index: 1 !important;
+                visibility: visible !important;
+                border-radius: 40px !important;
+            }
+
+            .gs-swiper-slide {
+                text-align: center !important;
+                background: transparent !important;
+                display: flex !important;
+                justify-content: center !important;
+                align-items: center !important;
+                border-radius: 40px !important;
+                overflow: hidden !important;
+            }
+
+            .gs-swiper-slide-img-wrapper {
+                width: 100% !important;
+                height: 100% !important;
+                border-radius: 40px !important;
+                overflow: hidden !important;
+                position: relative !important;
+            }
+
+            .gs-swiper-slide img {
+                display: block !important;
+                width: 100% !important;
+                height: 100% !important;
+                object-fit: cover !important;
+                object-position: center !important;
+                border-radius: 40px !important;
+                box-sizing: border-box !important;
+            }
+
+            .autoplay-progress {
+                position: absolute !important;
+                right: 16px !important;
+                bottom: 16px !important;
+                z-index: 10 !important;
+                width: 48px !important;
+                height: 48px !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                font-weight: bold !important;
+                color: var(--swiper-theme-color, #2cd8a9) !important;
+            }
+
+            .autoplay-progress svg {
+                --progress: 0;
+                position: absolute !important;
+                left: 0 !important;
+                top: 0px !important;
+                z-index: 10 !important;
+                width: 100% !important;
+                height: 100% !important;
+                stroke-width: 4px !important;
+                stroke: var(--swiper-theme-color, #2cd8a9) !important;
+                fill: none !important;
+                stroke-dashoffset: calc(125.6 * (1 - var(--progress))) !important;
+                stroke-dasharray: 125.6 !important;
+                transform: rotate(-90deg) !important;
+            }
+
+            .swiper-button-next svg, .swiper-button-prev svg {
+                width: 50% !important;
+                height: 50% !important;
+                object-fit: contain !important;
+                transform-origin: center center !important;
+                color: #7c7c7c !important;
+            }
+
+            .swiper-pagination-bullet {
+                width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 8px)) !important;
+                height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 8px)) !important;
+                display: inline-block !important;
+                border-radius: var(--swiper-pagination-bullet-border-radius, 50%) !important;
+                background: #7c7c7c !important;
+                opacity: var(--swiper-pagination-bullet-inactive-opacity, 0.2) !important;
+            }
+
+            .swiper {
+                width: 100% !important;
+                height: 100% !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                position: relative !important;
+                overflow: hidden !important;
+                list-style: none !important;
+                padding: 0px !important;
+                z-index: 1 !important;
+                display: block !important;
+                border-radius: 40px !important;
+            }
+
+            .gs-swiper-slider-container {
+                width: 100% !important;
+                max-width: 1300px !important;
+                margin: 10px auto !important; /* Небольшой отступ сверху */
+                padding: 0 15px !important;
+                border-radius: 40px !important;
+            }
+        `;
+        document.head.appendChild(styleElement);
+        console.log('Swiper styles injected');
+    }
+
+    ['SHOP_PAGE', 'SUPPORT_PAGE', 'CUSTOM_PAGE'].forEach(page => {
+        window.componentsManager.addListener(page, 'DID_MOUNT', () => {
+            console.log(`${page} DID_MOUNT triggered for styles`);
+            injectStyles();
+        });
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        console.log('DOMContentLoaded triggered for styles');
+        injectStyles();
+    });
+
+    window.componentsManager.load();
+}
+
+if (window.isAppReady) {
+    loadSwiperStyles();
+} else {
+    window.addEventListener('appReady', () => {
+        loadSwiperStyles();
+    });
+}
+// [/Загрузка стилей для Swiper]
+
+
+
+// JQuery Provider
+var jqueryScript = document.createElement("script");
+jqueryScript.src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+document.body.append(jqueryScript);
+
+// [Аватар пользователя]
+function useravatar() {
+    window.dispatchEvent(new CustomEvent("initState"));
+    window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+    window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+        const { player } = window.getState().player
+
+        if(!player) return
+
+        const userAvatar = `
+            <div class="user-avatar">
+                <img class="user-avatar-pic" src="${player.avatar}"></img>
+            </div>
+        `
+        const profileLink = document.querySelector('.PlayerMenu-module__profileLink')
+
+        profileLink.insertAdjacentHTML('beforebegin', userAvatar)
+    })
+
+    window.componentsManager.load()
+}
+if(window.isAppReady) {
+  useravatar()
+} else {
+    window.addEventListener('appReady', () => {
+    useravatar()
+  })
+}
+// [/Аватар пользователя]
+
+// [Иконка для кнопки "Войти"]
+function GSiconlogin() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconlogin() {
+const buttons = document.querySelectorAll(".PlayerMenu-module__loginLink");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDVpe.png",
+                id: "user-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconlogin();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconlogin();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconlogin();
+});
+}
+// [/Иконка для кнопки "Войти"]
+
+// [Иконка для кнопки "Профиль"]
+function GSiconprofile() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconprofile() {
+const buttons = document.querySelectorAll(".PlayerMenu-module__profileLink");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDrIX.png",
+                id: "user-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconprofile();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconprofile();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconprofile();
+});
+}
+// [/Иконка для кнопки "Профиль"]
+
+// [Иконки для навигации]
+function GSicons() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageicons() {
+  
+  var main= document.getElementsByClassName("HeaderNav-module__link")[0];
+  var str = '<img class="nav-icon" src="https://gspics.org/images/2025/02/04/IVDBPO.png">';
+  main.innerHTML += str;
+   
+  var main= document.getElementsByClassName("SupportLink-module__link")[0];
+  var str = '<img class="nav-icon" src="https://gspics.org/images/2025/02/04/IVDs4i.png">';
+  main.innerHTML += str;
+  
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageicons();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSicons();
+} else {
+window.addEventListener('appReady', () => {
+  GSicons();
+});
+}
+// [/Иконки для навигации]
+
+// [Иконка для баланса]
+function GSiconbalance() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconbalance() {
+const buttons = document.querySelectorAll(".PlayerBalance-module__wrapper button");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDJj3.png",
+                id: "balance-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconbalance();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconbalance();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconbalance();
+});
+}
+// [/Иконка для баланса]
+
+// [Иконки социальных сетей]
+function GSiconssocials() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconssocials() {
+  var main= document.getElementsByClassName("LangSwitcher-module__wrapper")[0];
+ var str = '<div class="socials"><a href="https://t.me/MelonRust" target="_blank" class="socials-telegram" title="Наш Telegram канал"><img class="socials-icon" src="https://gspics.org/images/2025/02/04/IVDhcL.png"></a><a href="https://discord.gg/2D456zDGj3"  target="_blank" class="socials-discord" title="Наш Discord"><img class="socials-icon" src="https://gspics.org/images/2025/02/04/IVDtgy.png"></a></div>';
+  main.innerHTML += str;
+  
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconssocials();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconssocials();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconssocials();
+});
+}
+// [/Иконки социальных сетей]
+
+console.log('%c Kits Init', 'color: white; background: #f2a358');
+
+const ALL_KITS = {
+  "СПАВН": {
+    description: "Выдаётся при спавне",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x5,000", name: "5.56 (обычные)" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "Калаш" }
+    ]
+  },
+  "ПВП": {
+    description: "PvP набор",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x20", name: "Бинты" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "M249" }
+    ]
+  }
+};
+
+let initialized = false;
+let modalOpenedByButton = false;
+
+function initKitsModal() {
+  if (initialized) return true;
+
+  const modal = document.getElementById('kitsModal');
+  const container = document.getElementById('kitsContainer');
+  const closeBtn = document.getElementById('closeModalButton');
+
+  if (!modal || !container || !closeBtn) {
+    console.log('❌ Элементы модалки не найдены. Ждём...');
+    return false;
+  }
+
+  console.log('✅ Модалка найдена, вешаем обработчики');
+
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+
+  closeBtn.onclick = () => {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+    modalOpenedByButton = false;
+  };
+
+  modal.onclick = e => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      modalOpenedByButton = false;
+    }
+  };
+
+  document.querySelectorAll('.viewKitsButton').forEach(btn => {
+    btn.onclick = () => {
+      const kitsAttr = btn.dataset.kits;
+      if (!kitsAttr) return;
+
+      const kits = kitsAttr.split(',').map(s => s.trim());
+      container.innerHTML = '';
+
+      kits.forEach(name => {
+        const kit = ALL_KITS[name];
+        if (!kit) return;
+
+        const block = document.createElement('div');
+        block.style.marginBottom = '20px';
+
+        block.innerHTML = `
+          <h4 style="color:#8000ff; text-shadow: 0 0 6px #8000ff; margin: 0 0 5px 0;">${name}</h4>
+          <div style="display:inline-block; background:#8000ff; color:#fff; border-radius:4px; padding:4px 8px; font-size:12px; box-shadow: 0 0 8px #8000ff; margin-bottom:10px;">
+            ${kit.description}
+          </div>
+          <div style="display:flex; gap:10px; flex-wrap: wrap;">
+            ${kit.items.map(item => `
+              <div style="background:#222; padding:10px; border-radius:6px; min-width: 80px; text-align:center; box-shadow: 0 0 6px #8000ff;">
+                <img src="${item.image}" style="width:50px; height:50px; object-fit: cover; border-radius:4px;">
+                <div style="font-weight:bold; margin-top:5px; color:#8000ff; text-shadow: 0 0 6px #8000ff;">${item.count}</div>
+                <div style="font-size:12px; color:#fff;">${item.name}</div>
+              </div>
+            `).join('')}
+          </div>`;
+
+        container.appendChild(block);
+      });
+
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+      modalOpenedByButton = true;
+    };
+  });
+
+  const observerModal = new MutationObserver(() => {
+    if (modal.style.display === 'flex' && !modalOpenedByButton) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      console.log('❌ Авто-открытие модалки отменено');
+    }
+  });
+
+  observerModal.observe(modal, { attributes: true, attributeFilter: ['style'] });
+
+  initialized = true;
+  return true;
+}
+
+const observer = new MutationObserver(() => {
+  const success = initKitsModal();
+  if (success) observer.disconnect();
+});
+
+observer.observe(document.body, { childList: true, subtree: true });
+
+console.log('%c Kits Observer запущен', 'color: white; background: #f2a358');
+
+document.addEventListener('mouseover', function(e) {
+  if (e.target.classList.contains('question-mark')) {
+    const tooltip = e.target.nextElementSibling;
+    tooltip.style.visibility = 'visible';
+    tooltip.style.opacity = '1';
+  }
+});
+document.addEventListener('mouseout', function(e) {
+  if (e.target.classList.contains('question-mark')) {
+    const tooltip = e.target.nextElementSibling;
+    tooltip.style.visibility = 'hidden';
+    tooltip.style.opacity = '0';
+  }
+});
+  
+
+//[защита]
+
+(function () {
+  var blocked = false;
+  var BLOCK_TEXT = '⛔ Доступ к коду заблокирован!';
+  var BLOCK_IMAGE = 'https://i.imgur.com/0XJ0SgD.png';
+
+  document.addEventListener('contextmenu', function (e) { e.preventDefault(); });
+  document.addEventListener('selectstart', function (e) { e.preventDefault(); });
+  document.addEventListener('copy', function (e) { e.preventDefault(); });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.keyCode === 123) e.preventDefault();
+    if (e.ctrlKey && e.keyCode === 85) e.preventDefault();
+    if (e.ctrlKey && e.keyCode === 83) e.preventDefault();
+    if (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74 || e.keyCode === 67)) e.preventDefault();
+  });
+
+  function blockPage() {
+    if (blocked) return;
+    blocked = true;
+
+    ['script', 'style', 'link'].forEach(function (tag) {
+      var els = document.getElementsByTagName(tag);
+      for (var i = els.length - 1; i >= 0; i--) {
+        if (tag === 'link' && els[i].rel !== 'stylesheet') continue;
+        if (els[i].parentNode) els[i].parentNode.removeChild(els[i]);
+      }
+    });
+
+    document.body.removeAttribute('style');
+    document.head.removeAttribute('style');
+
+    document.body.innerHTML = '';
+
+    var overlay = document.createElement('div');
+    overlay.style.position = 'fixed';
+    overlay.style.top = '0';
+    overlay.style.left = '0';
+    overlay.style.width = '100%';
+    overlay.style.height = '100%';
+    overlay.style.background = '#000';
+    overlay.style.color = '#fff';
+    overlay.style.display = 'flex';
+    overlay.style.flexDirection = 'column';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+    overlay.style.zIndex = '999999';
+
+    var img = document.createElement('img');
+    img.src = BLOCK_IMAGE;
+    img.style.maxWidth = '200px';
+    img.style.marginBottom = '20px';
+
+    var text = document.createElement('div');
+    text.style.fontSize = '24px';
+    text.style.fontFamily = 'sans-serif';
+    text.textContent = BLOCK_TEXT;
+
+    overlay.appendChild(img);
+    overlay.appendChild(text);
+    document.body.appendChild(overlay);
+  }
+
+  var devtoolsOpened = false;
+
+  // Проверка DevTools через геттер в console.log
+  function detectConsoleGetter() {
+    var start = Date.now();
+    var element = new Image();
+    Object.defineProperty(element, 'id', {
+      get: function () {
+        var duration = Date.now() - start;
+        if (duration > 100) {
+          if (!devtoolsOpened) {
+            devtoolsOpened = true;
+            blockPage();
+          }
+        }
+        return '';
+      }
+    });
+    console.log(element);
+  }
+
+  // Проверка DevTools через таймер и debugger без остановки
+  function detectDebuggerTiming() {
+    var start = Date.now();
+    // обход debugger без реальной паузы
+    try {
+      // eslint-disable-next-line no-unused-expressions
+      Function('')();
+    } catch (e) { }
+    var duration = Date.now() - start;
+    if (duration > 100) {
+      if (!devtoolsOpened) {
+        devtoolsOpened = true;
+        blockPage();
+      }
+    }
+  }
+
+  // Проверка по размеру с фильтрацией ложных срабатываний
+  var lastCheck = { widthDiff: 0, heightDiff: 0 };
+  function detectSizeChange() {
+    var widthDiff = window.outerWidth - window.innerWidth;
+    var heightDiff = window.outerHeight - window.innerHeight;
+
+    var threshold = 160;
+    if (
+      (widthDiff > threshold && Math.abs(widthDiff - lastCheck.widthDiff) > 20) ||
+      (heightDiff > threshold && Math.abs(heightDiff - lastCheck.heightDiff) > 20)
+    ) {
+      if (!devtoolsOpened) {
+        devtoolsOpened = true;
+        blockPage();
+      }
+    }
+    lastCheck = { widthDiff: widthDiff, heightDiff: heightDiff };
+  }
+
+  // Интервалы детекции
+  setInterval(detectConsoleGetter, 1000);
+  setInterval(detectDebuggerTiming, 1500);
+  setInterval(detectSizeChange, 2000);
+
+})();
+
+//[защита]
