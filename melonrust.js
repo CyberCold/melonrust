@@ -1,1 +1,950 @@
-var _0x18c3d=_0x39b6;(function(_0x20d8c7,_0x2fd8cc){var _0xd3a5c=_0x39b6,_0x40680b=_0x20d8c7();while(!![]){try{var _0x5a2d8f=-parseInt(_0xd3a5c(0x125))/0x1*(-parseInt(_0xd3a5c(0xd9))/0x2)+parseInt(_0xd3a5c(0xc0))/0x3*(-parseInt(_0xd3a5c(0x9e))/0x4)+parseInt(_0xd3a5c(0x80))/0x5+-parseInt(_0xd3a5c(0xdf))/0x6*(parseInt(_0xd3a5c(0x156))/0x7)+parseInt(_0xd3a5c(0x84))/0x8+-parseInt(_0xd3a5c(0xab))/0x9*(-parseInt(_0xd3a5c(0x7c))/0xa)+-parseInt(_0xd3a5c(0x10a))/0xb*(parseInt(_0xd3a5c(0xe7))/0xc);if(_0x5a2d8f===_0x2fd8cc)break;else _0x40680b['push'](_0x40680b['shift']());}catch(_0x13c4ac){_0x40680b['push'](_0x40680b['shift']());}}}(_0x9a78,0x77315),console['log']('%c\x20Version:\x20',_0x18c3d(0xfd),_0x18c3d(0x145)),console[_0x18c3d(0x154)]('%c\x20Author:\x20',_0x18c3d(0x124),_0x18c3d(0x106)));function _0x9a78(){var _0x3e394c=['Патроны','querySelectorAll','classList','445004vZDRSS','top','initState','left','productsGrid','rel','span','name','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','Swiper\x20loaded','contains','connect\x20','Калаш','7245mNvXQs','#fff','keyCode','display','createElement','value','defineProperty','textarea','join','100%','outerWidth','nextElementSibling','function','.copy-message','map','insertBefore','fixed','Успешно\x20скопировано','gs-swiper-fallback-container','maxWidth','getAttribute','6FmOEfq','SMG','%c\x20Kits\x20Observer\x20запущен','addListener','Выдаётся\x20при\x20спавне','.Header-module__wrapper','user-icon','Сервер\x20с\x20ID\x20','img','<img\x20class=\x22nav-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDs4i.png\x22>','abs','opacity','connect','disconnect','length','#000','innerHTML','swiper','12px','.players','body','fontSize','.PlayerBalance-module__wrapper\x20button','textContent','height','2pJHjvi','appReady','player','selectstart','zIndex','.viewKitsButton','6nkKiOP','-30px','zeroToFree','static','Некорректные\x20данные!','div','servers','parentNode','9420xXmAAj','transform','sans-serif','flex','[class*=\x22header\x22]','then','now','focus','whenDefined','swiper-container','color:\x20white;\x20background:\x20#f2a358','\x20не\x20найден!','question-mark','x5,000','.copybtn','SUPPORT_PAGE','isAppReady','#4C2A12','Спавн','x3,000','[data-server-id]','24px','color:\x20white;\x20background-color:\x20#f2a358','firstChild','error','SHOP_PAGE','getElementsByTagName','observe','5.56\x20(обычные)','column','load','CyberCold','target','insertAdjacentHTML','https://gspics.org/images/2025/02/04/IVDJj3.png','8591uUvQnw','innerHeight','⛔\x20Доступ\x20к\x20коду\x20заблокирован!','.PlayerMenu-module__profileLink','mouseout','\x22></img>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','displayName','trim','getElementsByClassName','https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js','marginBottom','HEADER','whiteSpace','clipboard','dataset','justifyContent','2D456zDGj3','catch','style','addEventListener','innerWidth','none','SupportLink-module__link','visible','.playersMax','999999','color:\x20white;\x20background-color:\x20#696969','224981OLMOsD','swiper-script','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:flex;\x20gap:10px;\x20flex-wrap:\x20wrap;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','ctrlKey','nextSibling','\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Контейнер\x20слайдера\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slider-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x201300px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x208px\x20auto\x20!important;\x20/*\x20Минимальные\x20отступы\x20сверху\x20и\x20снизу\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Сам\x20swiper\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x201300px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20visibility:\x20visible\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20aspect-ratio:\x2016\x20/\x206;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Слайды\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20transparent\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Обертка\x20изображения\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide-img-wrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Изображения\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-slide\x20img\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-fit:\x20contain\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20object-position:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2040px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Пагинация\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-pagination\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2012px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2020\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:\x20auto\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-pagination-bullet\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2014px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2014px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#7c7c7c\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.5\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x205px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20opacity\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-pagination-bullet-active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x201\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20var(--swiper-theme-color,\x20#2cd8a9)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Стрелки\x20—\x20меньшие\x20и\x20ближе\x20к\x20баннеру\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-next,\x20.swiper-button-prev\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2028px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2028px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-50%)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.25)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2030\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-next\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x20-20px\x20!important;\x20/*\x20снаружи,\x20ближе\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-prev\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x20-20px\x20!important;\x20/*\x20снаружи,\x20ближе\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-next:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-prev:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.5)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Мобильные:\x20убираем\x20стрелки,\x20увеличиваем\x20точки\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20@media\x20(max-width:\x20768px)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.gs-swiper-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20aspect-ratio:\x204\x20/\x203\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper-pagination-bullet\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2018px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2018px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-next,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.swiper-button-prev\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Убираем\x20верхние\x20отступы\x20только\x20у\x20баннера\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20main,\x20.Page-module__pageContent\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-top:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x200\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','background','execCommand','overflow','innerText','✅\x20Модалка\x20найдена,\x20вешаем\x20обработчики','getElementById','result','removeChild','approximate_member_count','?with_counts=true','onclick','querySelector','hidden','width','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-avatar\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22user-avatar-pic\x22\x20src=\x22','data','</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:inline-block;\x20background:#8000ff;\x20color:#fff;\x20border-radius:4px;\x20padding:4px\x208px;\x20font-size:12px;\x20box-shadow:\x200\x200\x208px\x20#8000ff;\x20margin-bottom:10px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','count','alignItems','dispatchEvent','Бинты','gs-swiper-styles','image','M249','DOMContentLoaded','https://i.imgur.com/0XJ0SgD.png','0.0.7','writeText','flexDirection','50%','remove','4px','Нет\x20ответа\x20от\x20сети!','Failed\x20to\x20load\x20Swiper\x20CDN,\x20trying\x20fallback','widthDiff','relative','position','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','https://discord.com/api/v9/invites/','color','closeModalButton','log','initComponentsManager','162883yZrAFt','PvP\x20набор','.Page-module__pageContent','https://via.placeholder.com/50','https://gspics.org/images/2025/02/04/IVDVpe.png','CUSTOM_PAGE','removeAttribute','className','borderRadius','translateX(-50%)','visibility','HeaderNav-module__link','items','presenceCount','sidebarProfileToRight','main','x20','contextmenu','preventDefault','data-server-id','outerHeight','mouseover','4030MHnKUy','forEach','%c\x20Kits\x20Init','Ещё\x20один\x20спавн-набор','2503120yMknYZ','membersCount','balance-icon','header','2376392UbaSSv','onload','https://melonproject.gamestores.app/api/v1/widgets.monitoring','.PlayerMenu-module__loginLink','onerror','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20style=\x22color:#8000ff;\x20text-shadow:\x200\x200\x206px\x20#8000ff;\x20margin:\x200\x200\x205px\x200;\x22>','componentsManager','head','avatar','sidebarStoreToRight','DID_MOUNT','center','update','nowrap','kitsContainer','200px','Fallback:\x20Невозможно\x20скопировать','script','src','success','json','currency','appendChild'];_0x9a78=function(){return _0x3e394c;};return _0x9a78();}const event=new CustomEvent('setCustomConfig');window[_0x18c3d(0xa2)]=0x4,window[_0x18c3d(0x99)]='руб',window['defaultPaymentAmount']=0x96,window[_0x18c3d(0xe1)]=!![],window[_0x18c3d(0x8d)]=!![],window[_0x18c3d(0x74)]=!![],window[_0x18c3d(0x13e)](event);function loadSwiperLibrary(){var _0x5b3f31=_0x18c3d;if(document[_0x5b3f31(0x130)](_0x5b3f31(0x126)))return;const _0x480980=document[_0x5b3f31(0xaf)](_0x5b3f31(0x95));_0x480980['id']=_0x5b3f31(0x126),_0x480980[_0x5b3f31(0x96)]='https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js',_0x480980[_0x5b3f31(0x88)]=()=>{var _0x2ecb34=_0x5b3f31;console[_0x2ecb34(0xff)](_0x2ecb34(0x14c)),_0x480980[_0x2ecb34(0x96)]='https://unpkg.com/swiper@11/swiper-element-bundle.min.js';},_0x480980[_0x5b3f31(0x85)]=()=>console['log'](_0x5b3f31(0xa7)),document[_0x5b3f31(0xd4)][_0x5b3f31(0x9a)](_0x480980);}function injectStyles(){var _0x5431b7=_0x18c3d;if(document['getElementById'](_0x5431b7(0x140)))return;const _0x2c00f0=document[_0x5431b7(0xaf)](_0x5431b7(0x11c));_0x2c00f0['id']='gs-swiper-styles',_0x2c00f0[_0x5431b7(0xd7)]=_0x5431b7(0x12a),document['head'][_0x5431b7(0x9a)](_0x2c00f0);}function GSslider(){var _0x30d2a8=_0x18c3d;window[_0x30d2a8(0x13e)](new CustomEvent(_0x30d2a8(0xa0))),window['dispatchEvent'](new CustomEvent('initComponentsManager'));function _0x50e19f(){var _0x3a11aa=_0x30d2a8;if(document[_0x3a11aa(0x136)]('.gs-swiper-container'))return;const _0x18e33a='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-container\x20class=\x22gs-swiper-container\x20mySwiper\x22\x20pagination=\x22true\x22\x20pagination-clickable=\x22true\x22\x20navigation=\x22true\x22\x20space-between=\x2230\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20centered-slides=\x22true\x22\x20autoplay-delay=\x225000\x22\x20autoplay-disable-on-interaction=\x22false\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-slide\x20class=\x22gs-swiper-slide\x22><div\x20class=\x22gs-swiper-slide-img-wrapper\x22><img\x20src=\x22https://gspics.org/images/2024/02/23/0bZXu7.png\x22\x20alt=\x22slide1\x22></div></swiper-slide>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<swiper-slide\x20class=\x22gs-swiper-slide\x22><div\x20class=\x22gs-swiper-slide-img-wrapper\x22><img\x20src=\x22https://gspics.org/images/2024/02/15/0bi9NR.png\x22\x20alt=\x22slide2\x22></div></swiper-slide>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22autoplay-progress\x22\x20slot=\x22container-end\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20viewBox=\x220\x200\x2048\x2048\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x2224\x22\x20cy=\x2224\x22\x20r=\x2220\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</swiper-container>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';let _0x1b3f76=document['querySelector'](_0x3a11aa(0x75))||document['querySelector'](_0x3a11aa(0x158));!_0x1b3f76&&(_0x1b3f76=document[_0x3a11aa(0xaf)](_0x3a11aa(0xe4)),_0x1b3f76[_0x3a11aa(0x6d)]=_0x3a11aa(0xbd),document['body']['appendChild'](_0x1b3f76));const _0x1b09e3=document[_0x3a11aa(0xaf)](_0x3a11aa(0xe4));_0x1b09e3[_0x3a11aa(0x6d)]='gs-swiper-slider-container',_0x1b09e3[_0x3a11aa(0xd0)]=_0x18e33a;const _0x3ecfed=document[_0x3a11aa(0x136)]('.container.headerContainer')||document[_0x3a11aa(0x136)](_0x3a11aa(0xc5))||document[_0x3a11aa(0x136)](_0x3a11aa(0x83))||document[_0x3a11aa(0x136)](_0x3a11aa(0xeb));_0x3ecfed?_0x3ecfed['parentNode']===_0x1b3f76?_0x1b3f76[_0x3a11aa(0xba)](_0x1b09e3,_0x3ecfed[_0x3a11aa(0x129)]):_0x3ecfed[_0x3a11aa(0xe6)][_0x3a11aa(0xba)](_0x1b09e3,_0x3ecfed[_0x3a11aa(0x129)]):_0x1b3f76[_0x3a11aa(0xba)](_0x1b09e3,_0x1b3f76[_0x3a11aa(0xfe)]),window['customElements']&&customElements[_0x3a11aa(0xef)]&&customElements['whenDefined']('swiper-container')[_0x3a11aa(0xec)](()=>{var _0x369d34=_0x3a11aa;const _0x4ec0b6=_0x1b09e3[_0x369d34(0x136)](_0x369d34(0xf0));_0x4ec0b6&&_0x4ec0b6[_0x369d34(0xd1)]&&(_0x4ec0b6[_0x369d34(0xd1)][_0x369d34(0x90)](),_0x4ec0b6[_0x369d34(0xd1)]['autoplay']['start']());});}['SHOP_PAGE',_0x30d2a8(0xf6),_0x30d2a8(0x15b)]['forEach'](_0x4fd9f8=>{var _0x21070f=_0x30d2a8;window[_0x21070f(0x8a)]&&window[_0x21070f(0x8a)][_0x21070f(0xc3)]&&window[_0x21070f(0x8a)][_0x21070f(0xc3)](_0x4fd9f8,'DID_MOUNT',()=>{_0x50e19f();});}),document[_0x30d2a8(0x11d)](_0x30d2a8(0x143),()=>{_0x50e19f();}),window[_0x30d2a8(0x8a)]&&window[_0x30d2a8(0x8a)][_0x30d2a8(0x105)]&&window[_0x30d2a8(0x8a)][_0x30d2a8(0x105)]();}window[_0x18c3d(0xf7)]?(loadSwiperLibrary(),injectStyles(),GSslider()):window[_0x18c3d(0x11d)](_0x18c3d(0xda),()=>{loadSwiperLibrary(),injectStyles(),GSslider();});const INVITE=_0x18c3d(0x11a);function updateDiscordStats(){var _0x38f0dd=_0x18c3d;fetch(_0x38f0dd(0x151)+INVITE+_0x38f0dd(0x134))['then'](_0x1ceb66=>_0x1ceb66[_0x38f0dd(0x98)]())[_0x38f0dd(0xec)](_0x14a3fa=>{var _0x1c667e=_0x38f0dd;const _0x533f87=_0x14a3fa[_0x1c667e(0x133)]??'0',_0x10976a=_0x14a3fa['approximate_presence_count']??'0';document[_0x1c667e(0x130)](_0x1c667e(0x81))[_0x1c667e(0xd7)]=_0x533f87,document[_0x1c667e(0x130)](_0x1c667e(0x73))[_0x1c667e(0xd7)]=_0x10976a;})[_0x38f0dd(0x11b)](_0x5143a6=>console['error']('Discord\x20API\x20error:',_0x5143a6));}updateDiscordStats(),setInterval(updateDiscordStats,0x2710);function GSMonit(){var _0x2daf87=_0x18c3d;window['dispatchEvent'](new CustomEvent(_0x2daf87(0xa0))),window['dispatchEvent'](new CustomEvent(_0x2daf87(0x155)));function _0x5dd98c(){const _0x4f14c1=function(){var _0x5d214d=_0x39b6;fetch(_0x5d214d(0x86))[_0x5d214d(0xec)](function(_0x58ad95){var _0x35542f=_0x5d214d;if(!_0x58ad95['ok'])throw new Error(_0x35542f(0x14b));return _0x58ad95[_0x35542f(0x98)]();})[_0x5d214d(0xec)](function(_0x61072e){var _0xd02381=_0x5d214d;if(_0x61072e[_0xd02381(0x131)]===_0xd02381(0x97)&&_0x61072e[_0xd02381(0x13a)]&&_0x61072e[_0xd02381(0x13a)][_0xd02381(0xe5)]){var _0x198bc2=_0x61072e[_0xd02381(0x13a)]['servers'],_0x4bcdb8={0x9c1d:0xe,0x9c1e:0x0};document[_0xd02381(0x9c)](_0xd02381(0xfb))[_0xd02381(0x7d)](function(_0x2a8a5c){var _0x4d0ffe=_0xd02381,_0x3f430a=parseInt(_0x2a8a5c[_0x4d0ffe(0xbf)](_0x4d0ffe(0x79))),_0x5f4ce2=_0x198bc2['find'](function(_0x20e37a){return _0x20e37a['id']===_0x3f430a;});if(_0x5f4ce2){var _0x39efe8=_0x2a8a5c[_0x4d0ffe(0x136)](_0x4d0ffe(0xd3)),_0x227ced=_0x2a8a5c[_0x4d0ffe(0x136)](_0x4d0ffe(0x122)),_0x3aaae8=_0x2a8a5c['querySelector'](_0x4d0ffe(0xf5)),_0x3f96e1=_0x4bcdb8[_0x3f430a]||0x0,_0x1d1441=(_0x5f4ce2['players']||0x0)+_0x3f96e1;if(_0x39efe8)_0x39efe8['textContent']=_0x1d1441;if(_0x227ced)_0x227ced[_0x4d0ffe(0xd7)]=_0x5f4ce2['playersMax']||0x0;if(_0x3aaae8){var _0x5f24f4=_0x5f4ce2[_0x4d0ffe(0xcc)]||'';_0x5f24f4[_0x4d0ffe(0x111)]()['indexOf']('connect')!==0x0&&(_0x5f24f4=_0x4d0ffe(0xa9)+_0x5f24f4),_0x3aaae8[_0x4d0ffe(0x12e)]=_0x5f24f4['trim']();}}else console['warn'](_0x4d0ffe(0xc7)+_0x3f430a+_0x4d0ffe(0xf2));}),document[_0xd02381(0x9c)]('[data-server-id]')[_0xd02381(0x7d)](function(_0x42a035){var _0xfc58b8=_0xd02381,_0x476aa8=_0x42a035[_0xfc58b8(0x9c)](_0xfc58b8(0xf5));_0x476aa8[_0xfc58b8(0x7d)](function(_0x42217f){_0x42217f['onclick']=function(){var _0x2926a7=_0x39b6,_0x10aca4=this[_0x2926a7(0x12e)][_0x2926a7(0x111)]();if(!_0x10aca4)return;var _0x4be496=this;function _0x1b274b(){var _0x25f6b5=_0x2926a7,_0x5ef7d3=_0x4be496['parentNode'][_0x25f6b5(0x136)](_0x25f6b5(0xb8));_0x5ef7d3&&_0x5ef7d3[_0x25f6b5(0x149)]();var _0x366a72=document[_0x25f6b5(0xaf)](_0x25f6b5(0xa4));_0x366a72['className']='copy-message',_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0x14f)]='absolute',_0x366a72['style'][_0x25f6b5(0x12b)]=_0x25f6b5(0xf8),_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0x152)]=_0x25f6b5(0xac),_0x366a72[_0x25f6b5(0x11c)]['padding']='4px\x208px',_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0x6e)]=_0x25f6b5(0x14a),_0x366a72[_0x25f6b5(0x11c)]['fontSize']=_0x25f6b5(0xd2),_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0x9f)]=_0x25f6b5(0xe0),_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0xa1)]=_0x25f6b5(0x148),_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0xe8)]=_0x25f6b5(0x6f),_0x366a72[_0x25f6b5(0x11c)][_0x25f6b5(0x116)]=_0x25f6b5(0x91),_0x366a72['style'][_0x25f6b5(0xdd)]='9999',_0x366a72['textContent']=_0x25f6b5(0xbc),(_0x4be496[_0x25f6b5(0xe6)]['style'][_0x25f6b5(0x14f)]===''||_0x4be496[_0x25f6b5(0xe6)][_0x25f6b5(0x11c)][_0x25f6b5(0x14f)]===_0x25f6b5(0xe2))&&(_0x4be496[_0x25f6b5(0xe6)]['style'][_0x25f6b5(0x14f)]=_0x25f6b5(0x14e)),_0x4be496[_0x25f6b5(0xe6)][_0x25f6b5(0x9a)](_0x366a72),setTimeout(function(){var _0x214c11=_0x25f6b5;_0x366a72[_0x214c11(0xe6)]&&_0x366a72['parentNode'][_0x214c11(0x132)](_0x366a72);},0x2bc);}navigator[_0x2926a7(0x117)]&&navigator[_0x2926a7(0x117)]['writeText']?navigator[_0x2926a7(0x117)][_0x2926a7(0x146)](_0x10aca4)[_0x2926a7(0xec)](_0x1b274b)[_0x2926a7(0x11b)](function(){_0x3014d9(_0x10aca4,_0x1b274b);}):_0x3014d9(_0x10aca4,_0x1b274b);};});});}else console['error'](_0xd02381(0xe3));})[_0x5d214d(0x11b)](function(_0x496875){var _0x58b245=_0x5d214d;console[_0x58b245(0xff)]('Ошибка:\x20',_0x496875);});};function _0x3014d9(_0xefabd4,_0x1e1385){var _0xf3adac=_0x39b6,_0x4beb86=document[_0xf3adac(0xaf)](_0xf3adac(0xb2));_0x4beb86[_0xf3adac(0xb0)]=_0xefabd4,_0x4beb86[_0xf3adac(0x11c)][_0xf3adac(0x14f)]=_0xf3adac(0xbb),_0x4beb86[_0xf3adac(0x11c)][_0xf3adac(0xcb)]='0',document['body'][_0xf3adac(0x9a)](_0x4beb86),_0x4beb86[_0xf3adac(0xee)](),_0x4beb86['select']();try{document[_0xf3adac(0x12c)]('copy');if(typeof _0x1e1385===_0xf3adac(0xb7))_0x1e1385();}catch(_0x2f8a32){console[_0xf3adac(0xff)](_0xf3adac(0x94),_0x2f8a32);}document['body'][_0xf3adac(0x132)](_0x4beb86);}_0x4f14c1();}[_0x2daf87(0x100),'SUPPORT_PAGE','CUSTOM_PAGE']['forEach'](function(_0x34215a){var _0x5d3bd4=_0x2daf87;window[_0x5d3bd4(0x8a)]['addListener'](_0x34215a,_0x5d3bd4(0x8e),function(){_0x5dd98c(),setInterval(_0x5dd98c,0x2710);});}),window[_0x2daf87(0x8a)]['load']();}window[_0x18c3d(0xf7)]?GSMonit():window[_0x18c3d(0x11d)](_0x18c3d(0xda),GSMonit);var jqueryScript=document['createElement'](_0x18c3d(0x95));jqueryScript['src']=_0x18c3d(0x113),document[_0x18c3d(0xd4)]['append'](jqueryScript);function useravatar(){var _0x47e4f3=_0x18c3d;window['dispatchEvent'](new CustomEvent('initState')),window['dispatchEvent'](new CustomEvent(_0x47e4f3(0x155))),window[_0x47e4f3(0x8a)][_0x47e4f3(0xc3)]('HEADER',_0x47e4f3(0x8e),()=>{var _0x328b16=_0x47e4f3;const {player:_0x6b7883}=window['getState']()[_0x328b16(0xdb)];if(!_0x6b7883)return;const _0x17805b=_0x328b16(0x139)+_0x6b7883[_0x328b16(0x8c)]+_0x328b16(0x10f),_0x5ce3cb=document['querySelector'](_0x328b16(0x10d));_0x5ce3cb[_0x328b16(0x108)]('beforebegin',_0x17805b);}),window[_0x47e4f3(0x8a)][_0x47e4f3(0x105)]();}window[_0x18c3d(0xf7)]?useravatar():window[_0x18c3d(0x11d)](_0x18c3d(0xda),()=>{useravatar();});function GSiconlogin(){var _0x23d0fa=_0x18c3d;window['dispatchEvent'](new CustomEvent('initState')),window['dispatchEvent'](new CustomEvent('initComponentsManager'));function _0x4d1291(){var _0x460547=_0x39b6;const _0x16bf69=document[_0x460547(0x9c)](_0x460547(0x87)),_0x5674a7=[{'src':_0x460547(0x15a),'id':_0x460547(0xc6)}];_0x16bf69[_0x460547(0x7d)]((_0x2bd2ae,_0x146ee9)=>{var _0x232f6f=_0x460547;if(_0x146ee9<_0x5674a7['length']){const _0x5e69ed=document[_0x232f6f(0xaf)](_0x232f6f(0xc8));_0x5e69ed[_0x232f6f(0x96)]=_0x5674a7[_0x146ee9][_0x232f6f(0x96)],_0x5e69ed['id']=_0x5674a7[_0x146ee9]['id'];const _0x59e330=document['createElement']('div');_0x59e330[_0x232f6f(0x9a)](_0x5e69ed),_0x2bd2ae[_0x232f6f(0x9a)](_0x59e330);}});}window[_0x23d0fa(0x8a)][_0x23d0fa(0xc3)](_0x23d0fa(0x115),_0x23d0fa(0x8e),()=>{_0x4d1291();}),window[_0x23d0fa(0x8a)][_0x23d0fa(0x105)]();}window[_0x18c3d(0xf7)]?GSiconlogin():window['addEventListener'](_0x18c3d(0xda),()=>{GSiconlogin();});function GSiconprofile(){var _0xa60eb3=_0x18c3d;window[_0xa60eb3(0x13e)](new CustomEvent('initState')),window['dispatchEvent'](new CustomEvent(_0xa60eb3(0x155)));function _0x389029(){var _0x15d586=_0xa60eb3;const _0x114011=document[_0x15d586(0x9c)](_0x15d586(0x10d)),_0x19a222=[{'src':'https://gspics.org/images/2025/02/04/IVDrIX.png','id':'user-icon'}];_0x114011[_0x15d586(0x7d)]((_0x2f6801,_0x227f0c)=>{var _0x1669e3=_0x15d586;if(_0x227f0c<_0x19a222[_0x1669e3(0xce)]){const _0x332dd5=document[_0x1669e3(0xaf)](_0x1669e3(0xc8));_0x332dd5[_0x1669e3(0x96)]=_0x19a222[_0x227f0c][_0x1669e3(0x96)],_0x332dd5['id']=_0x19a222[_0x227f0c]['id'];const _0x3d3eed=document[_0x1669e3(0xaf)]('div');_0x3d3eed[_0x1669e3(0x9a)](_0x332dd5),_0x2f6801['appendChild'](_0x3d3eed);}});}window['componentsManager'][_0xa60eb3(0xc3)]('HEADER','DID_MOUNT',()=>{_0x389029();}),window[_0xa60eb3(0x8a)]['load']();}window[_0x18c3d(0xf7)]?GSiconprofile():window[_0x18c3d(0x11d)]('appReady',()=>{GSiconprofile();});function GSicons(){var _0x3a2bb0=_0x18c3d;window[_0x3a2bb0(0x13e)](new CustomEvent(_0x3a2bb0(0xa0))),window[_0x3a2bb0(0x13e)](new CustomEvent(_0x3a2bb0(0x155)));function _0x1b0fc5(){var _0x251725=_0x3a2bb0,_0x5ce22d=document[_0x251725(0x112)](_0x251725(0x71))[0x0],_0x259198='<img\x20class=\x22nav-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDBPO.png\x22>';_0x5ce22d[_0x251725(0xd0)]+=_0x259198;var _0x5ce22d=document[_0x251725(0x112)](_0x251725(0x120))[0x0],_0x259198=_0x251725(0xc9);_0x5ce22d[_0x251725(0xd0)]+=_0x259198;}window[_0x3a2bb0(0x8a)]['addListener'](_0x3a2bb0(0x115),_0x3a2bb0(0x8e),()=>{_0x1b0fc5();}),window['componentsManager'][_0x3a2bb0(0x105)]();}window[_0x18c3d(0xf7)]?GSicons():window[_0x18c3d(0x11d)](_0x18c3d(0xda),()=>{GSicons();});function GSiconbalance(){var _0x59e92d=_0x18c3d;window['dispatchEvent'](new CustomEvent(_0x59e92d(0xa0))),window['dispatchEvent'](new CustomEvent(_0x59e92d(0x155)));function _0x4c3b8e(){var _0x43fec2=_0x59e92d;const _0x6398d9=document[_0x43fec2(0x9c)](_0x43fec2(0xd6)),_0xfa5c4d=[{'src':_0x43fec2(0x109),'id':_0x43fec2(0x82)}];_0x6398d9[_0x43fec2(0x7d)]((_0x3b8b53,_0x478b7c)=>{var _0x194e99=_0x43fec2;if(_0x478b7c<_0xfa5c4d[_0x194e99(0xce)]){const _0x419120=document[_0x194e99(0xaf)]('img');_0x419120['src']=_0xfa5c4d[_0x478b7c][_0x194e99(0x96)],_0x419120['id']=_0xfa5c4d[_0x478b7c]['id'];const _0x49f5bc=document[_0x194e99(0xaf)]('div');_0x49f5bc[_0x194e99(0x9a)](_0x419120),_0x3b8b53['appendChild'](_0x49f5bc);}});}window['componentsManager']['addListener'](_0x59e92d(0x115),_0x59e92d(0x8e),()=>{_0x4c3b8e();}),window[_0x59e92d(0x8a)][_0x59e92d(0x105)]();}window[_0x18c3d(0xf7)]?GSiconbalance():window[_0x18c3d(0x11d)](_0x18c3d(0xda),()=>{GSiconbalance();});function GSiconssocials(){var _0x26caca=_0x18c3d;window['dispatchEvent'](new CustomEvent(_0x26caca(0xa0))),window['dispatchEvent'](new CustomEvent(_0x26caca(0x155)));function _0x266f7c(){var _0x407b66=_0x26caca,_0x3d1520=document[_0x407b66(0x112)]('LangSwitcher-module__wrapper')[0x0],_0x4b116e='<div\x20class=\x22socials\x22><a\x20href=\x22https://t.me/MelonRust\x22\x20target=\x22_blank\x22\x20class=\x22socials-telegram\x22\x20title=\x22Наш\x20Telegram\x20канал\x22><img\x20class=\x22socials-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDhcL.png\x22></a><a\x20href=\x22https://discord.gg/2D456zDGj3\x22\x20\x20target=\x22_blank\x22\x20class=\x22socials-discord\x22\x20title=\x22Наш\x20Discord\x22><img\x20class=\x22socials-icon\x22\x20src=\x22https://gspics.org/images/2025/02/04/IVDtgy.png\x22></a></div>';_0x3d1520[_0x407b66(0xd0)]+=_0x4b116e;}window[_0x26caca(0x8a)][_0x26caca(0xc3)](_0x26caca(0x115),_0x26caca(0x8e),()=>{_0x266f7c();}),window[_0x26caca(0x8a)]['load']();}function _0x39b6(_0x1607b8,_0x3ffd09){var _0x9a783b=_0x9a78();return _0x39b6=function(_0x39b689,_0x7a8cff){_0x39b689=_0x39b689-0x6d;var _0x490148=_0x9a783b[_0x39b689];return _0x490148;},_0x39b6(_0x1607b8,_0x3ffd09);}window['isAppReady']?GSiconssocials():window[_0x18c3d(0x11d)](_0x18c3d(0xda),()=>{GSiconssocials();});console[_0x18c3d(0x154)](_0x18c3d(0x7e),_0x18c3d(0xf1));const ALL_KITS={'СПАВН':{'displayName':'Спавн','description':_0x18c3d(0xc4),'items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0xf4),'name':_0x18c3d(0x103)},{'image':_0x18c3d(0x159),'count':'x1','name':'Калаш'}]},'СПАВН2':{'displayName':_0x18c3d(0xf9),'description':_0x18c3d(0x7f),'items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0xfa),'name':'Патроны'},{'image':_0x18c3d(0x159),'count':'x1','name':_0x18c3d(0xc1)}]},'СПАВН3':{'displayName':_0x18c3d(0xf9),'description':_0x18c3d(0xc4),'items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0xf4),'name':_0x18c3d(0x103)},{'image':'https://via.placeholder.com/50','count':'x1','name':_0x18c3d(0xaa)}]},'СПАВН4':{'displayName':_0x18c3d(0xf9),'description':_0x18c3d(0x7f),'items':[{'image':_0x18c3d(0x159),'count':'x3,000','name':_0x18c3d(0x9b)},{'image':_0x18c3d(0x159),'count':'x1','name':_0x18c3d(0xc1)}]},'СПАВН5':{'displayName':_0x18c3d(0xf9),'description':'Выдаётся\x20при\x20спавне','items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0xf4),'name':_0x18c3d(0x103)},{'image':_0x18c3d(0x159),'count':'x1','name':_0x18c3d(0xaa)}]},'СПАВН6':{'displayName':_0x18c3d(0xf9),'description':_0x18c3d(0x7f),'items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0xfa),'name':_0x18c3d(0x9b)},{'image':_0x18c3d(0x159),'count':'x1','name':_0x18c3d(0xc1)}]},'ПВП':{'displayName':'PvP','description':_0x18c3d(0x157),'items':[{'image':_0x18c3d(0x159),'count':_0x18c3d(0x76),'name':_0x18c3d(0x13f)},{'image':_0x18c3d(0x159),'count':'x1','name':_0x18c3d(0x142)}]}};let initialized=![],modalOpenedByButton=![];function initKitsModal(){var _0xd5f40b=_0x18c3d;if(initialized)return!![];const _0x305ca0=document[_0xd5f40b(0x130)]('kitsModal'),_0x36f62c=document[_0xd5f40b(0x130)](_0xd5f40b(0x92)),_0x1d2cb8=document[_0xd5f40b(0x130)](_0xd5f40b(0x153));if(!_0x305ca0||!_0x36f62c||!_0x1d2cb8)return console['log']('❌\x20Элементы\x20модалки\x20не\x20найдены.\x20Ждём...'),![];console[_0xd5f40b(0x154)](_0xd5f40b(0x12f)),_0x305ca0['style'][_0xd5f40b(0xae)]=_0xd5f40b(0x11f),document[_0xd5f40b(0xd4)][_0xd5f40b(0x11c)][_0xd5f40b(0x12d)]='',_0x1d2cb8[_0xd5f40b(0x135)]=()=>{var _0x16a091=_0xd5f40b;_0x305ca0[_0x16a091(0x11c)]['display']=_0x16a091(0x11f),document['body'][_0x16a091(0x11c)]['overflow']='',modalOpenedByButton=![];},_0x305ca0[_0xd5f40b(0x135)]=_0x57e225=>{var _0x3f312d=_0xd5f40b;_0x57e225[_0x3f312d(0x107)]===_0x305ca0&&(_0x305ca0[_0x3f312d(0x11c)]['display']=_0x3f312d(0x11f),document[_0x3f312d(0xd4)][_0x3f312d(0x11c)][_0x3f312d(0x12d)]='',modalOpenedByButton=![]);},document[_0xd5f40b(0x9c)](_0xd5f40b(0xde))['forEach'](_0x57ac9c=>{var _0x3fc2d7=_0xd5f40b;_0x57ac9c[_0x3fc2d7(0x135)]=()=>{var _0x33cf80=_0x3fc2d7;const _0x5e0828=_0x57ac9c[_0x33cf80(0x118)]['kits'];if(!_0x5e0828)return;const _0x5caa59=_0x5e0828['split'](',')[_0x33cf80(0xb9)](_0x16218d=>_0x16218d['trim']());_0x36f62c[_0x33cf80(0xd0)]='',_0x5caa59[_0x33cf80(0x7d)](_0x1a2d4f=>{var _0x683390=_0x33cf80;const _0x254732=ALL_KITS[_0x1a2d4f];if(!_0x254732)return;const _0x15f865=document['createElement'](_0x683390(0xe4));_0x15f865[_0x683390(0x11c)]['marginBottom']='20px',_0x15f865[_0x683390(0xd0)]=_0x683390(0x89)+_0x254732[_0x683390(0x110)]+_0x683390(0x13b)+_0x254732['description']+_0x683390(0x127)+_0x254732[_0x683390(0x72)]['map'](_0x5a8341=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22background:#222;\x20padding:10px;\x20border-radius:6px;\x20min-width:\x2080px;\x20text-align:center;\x20box-shadow:\x200\x200\x206px\x20#8000ff;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+_0x5a8341[_0x683390(0x141)]+'\x22\x20style=\x22width:50px;\x20height:50px;\x20object-fit:\x20cover;\x20border-radius:4px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-weight:bold;\x20margin-top:5px;\x20color:#8000ff;\x20text-shadow:\x200\x200\x206px\x20#8000ff;\x22>'+_0x5a8341[_0x683390(0x13c)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:12px;\x20color:#fff;\x22>'+_0x5a8341[_0x683390(0xa5)]+_0x683390(0x150))[_0x683390(0xb3)]('')+_0x683390(0xa6),_0x36f62c[_0x683390(0x9a)](_0x15f865);}),_0x305ca0['style'][_0x33cf80(0xae)]=_0x33cf80(0xea),document[_0x33cf80(0xd4)][_0x33cf80(0x11c)][_0x33cf80(0x12d)]=_0x33cf80(0x137),modalOpenedByButton=!![];};});const _0x11f6e5=new MutationObserver(()=>{var _0x4ae8f6=_0xd5f40b;_0x305ca0[_0x4ae8f6(0x11c)][_0x4ae8f6(0xae)]===_0x4ae8f6(0xea)&&!modalOpenedByButton&&(_0x305ca0[_0x4ae8f6(0x11c)][_0x4ae8f6(0xae)]=_0x4ae8f6(0x11f),document[_0x4ae8f6(0xd4)][_0x4ae8f6(0x11c)][_0x4ae8f6(0x12d)]='',console[_0x4ae8f6(0x154)]('❌\x20Авто-открытие\x20модалки\x20отменено'));});return _0x11f6e5[_0xd5f40b(0x102)](_0x305ca0,{'attributes':!![],'attributeFilter':['style']}),initialized=!![],!![];}const observer=new MutationObserver(()=>{var _0x58beba=_0x18c3d;const _0x27a69c=initKitsModal();if(_0x27a69c)observer[_0x58beba(0xcd)]();});observer[_0x18c3d(0x102)](document['body'],{'childList':!![],'subtree':!![]}),document['addEventListener'](_0x18c3d(0x7b),function(_0x3b4bf1){var _0x3b0549=_0x18c3d;if(_0x3b4bf1[_0x3b0549(0x107)][_0x3b0549(0x9d)][_0x3b0549(0xa8)]('question-mark')){const _0x3841ff=_0x3b4bf1[_0x3b0549(0x107)][_0x3b0549(0xb6)];_0x3841ff['style'][_0x3b0549(0x70)]=_0x3b0549(0x121),_0x3841ff[_0x3b0549(0x11c)][_0x3b0549(0xcb)]='1';}}),document[_0x18c3d(0x11d)](_0x18c3d(0x10e),function(_0x65cb94){var _0x5debcf=_0x18c3d;if(_0x65cb94['target'][_0x5debcf(0x9d)]['contains'](_0x5debcf(0xf3))){const _0x24ed25=_0x65cb94[_0x5debcf(0x107)][_0x5debcf(0xb6)];_0x24ed25[_0x5debcf(0x11c)][_0x5debcf(0x70)]=_0x5debcf(0x137),_0x24ed25[_0x5debcf(0x11c)][_0x5debcf(0xcb)]='0';}}),console[_0x18c3d(0x154)](_0x18c3d(0xc2),_0x18c3d(0xf1)),(function(){var _0x3065c8=_0x18c3d,_0x23dc7a=![],_0x231059=_0x3065c8(0x10c),_0x2187dc=_0x3065c8(0x144);document[_0x3065c8(0x11d)](_0x3065c8(0x77),function(_0x4d798f){var _0x3df6f5=_0x3065c8;_0x4d798f[_0x3df6f5(0x78)]();}),document[_0x3065c8(0x11d)](_0x3065c8(0xdc),function(_0x134a5d){var _0x4d899c=_0x3065c8;_0x134a5d[_0x4d899c(0x78)]();}),document[_0x3065c8(0x11d)]('copy',function(_0x28f722){_0x28f722['preventDefault']();}),document[_0x3065c8(0x11d)]('keydown',function(_0x9268da){var _0x36fb06=_0x3065c8;if(_0x9268da['keyCode']===0x7b)_0x9268da['preventDefault']();if(_0x9268da[_0x36fb06(0x128)]&&_0x9268da[_0x36fb06(0xad)]===0x55)_0x9268da[_0x36fb06(0x78)]();if(_0x9268da['ctrlKey']&&_0x9268da[_0x36fb06(0xad)]===0x53)_0x9268da[_0x36fb06(0x78)]();if(_0x9268da['ctrlKey']&&_0x9268da['shiftKey']&&(_0x9268da[_0x36fb06(0xad)]===0x49||_0x9268da[_0x36fb06(0xad)]===0x4a||_0x9268da[_0x36fb06(0xad)]===0x43))_0x9268da['preventDefault']();});function _0x468fa5(){var _0x5c3861=_0x3065c8;if(_0x23dc7a)return;_0x23dc7a=!![],[_0x5c3861(0x95),_0x5c3861(0x11c),'link'][_0x5c3861(0x7d)](function(_0x5e5ad8){var _0x1859ca=_0x5c3861,_0x53173c=document[_0x1859ca(0x101)](_0x5e5ad8);for(var _0x200a43=_0x53173c[_0x1859ca(0xce)]-0x1;_0x200a43>=0x0;_0x200a43--){if(_0x5e5ad8==='link'&&_0x53173c[_0x200a43][_0x1859ca(0xa3)]!=='stylesheet')continue;if(_0x53173c[_0x200a43][_0x1859ca(0xe6)])_0x53173c[_0x200a43][_0x1859ca(0xe6)][_0x1859ca(0x132)](_0x53173c[_0x200a43]);}}),document['body'][_0x5c3861(0x15c)](_0x5c3861(0x11c)),document[_0x5c3861(0x8b)][_0x5c3861(0x15c)](_0x5c3861(0x11c)),document[_0x5c3861(0xd4)][_0x5c3861(0xd0)]='';var _0x2e5ba5=document[_0x5c3861(0xaf)](_0x5c3861(0xe4));_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0x14f)]='fixed',_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0x9f)]='0',_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0xa1)]='0',_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0x138)]=_0x5c3861(0xb4),_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0xd8)]=_0x5c3861(0xb4),_0x2e5ba5['style']['background']=_0x5c3861(0xcf),_0x2e5ba5['style'][_0x5c3861(0x152)]=_0x5c3861(0xac),_0x2e5ba5[_0x5c3861(0x11c)]['display']=_0x5c3861(0xea),_0x2e5ba5['style'][_0x5c3861(0x147)]=_0x5c3861(0x104),_0x2e5ba5['style'][_0x5c3861(0x13d)]='center',_0x2e5ba5[_0x5c3861(0x11c)][_0x5c3861(0x119)]=_0x5c3861(0x8f),_0x2e5ba5['style'][_0x5c3861(0xdd)]=_0x5c3861(0x123);var _0x1fe519=document[_0x5c3861(0xaf)]('img');_0x1fe519['src']=_0x2187dc,_0x1fe519[_0x5c3861(0x11c)][_0x5c3861(0xbe)]=_0x5c3861(0x93),_0x1fe519['style'][_0x5c3861(0x114)]='20px';var _0x1395d1=document[_0x5c3861(0xaf)](_0x5c3861(0xe4));_0x1395d1[_0x5c3861(0x11c)][_0x5c3861(0xd5)]=_0x5c3861(0xfc),_0x1395d1[_0x5c3861(0x11c)]['fontFamily']=_0x5c3861(0xe9),_0x1395d1[_0x5c3861(0xd7)]=_0x231059,_0x2e5ba5[_0x5c3861(0x9a)](_0x1fe519),_0x2e5ba5[_0x5c3861(0x9a)](_0x1395d1),document[_0x5c3861(0xd4)][_0x5c3861(0x9a)](_0x2e5ba5);}var _0x670507=![];function _0x195d6d(){var _0x421265=_0x3065c8,_0x30b28c=Date[_0x421265(0xed)](),_0x4944a5=new Image();Object[_0x421265(0xb1)](_0x4944a5,'id',{'get':function(){var _0x3e8e39=Date['now']()-_0x30b28c;return _0x3e8e39>0x64&&(!_0x670507&&(_0x670507=!![],_0x468fa5())),'';}}),console[_0x421265(0x154)](_0x4944a5);}function _0x3f698f(){var _0x81b3f3=_0x3065c8,_0x189bf8=Date[_0x81b3f3(0xed)]();try{Function('')();}catch(_0x518999){}var _0x26a5ae=Date[_0x81b3f3(0xed)]()-_0x189bf8;_0x26a5ae>0x64&&(!_0x670507&&(_0x670507=!![],_0x468fa5()));}var _0x157455={'widthDiff':0x0,'heightDiff':0x0};function _0x3b38c8(){var _0x47cb39=_0x3065c8,_0x119f4a=window[_0x47cb39(0xb5)]-window[_0x47cb39(0x11e)],_0x2e927e=window[_0x47cb39(0x7a)]-window[_0x47cb39(0x10b)],_0x9e1a47=0xa0;(_0x119f4a>_0x9e1a47&&Math['abs'](_0x119f4a-_0x157455[_0x47cb39(0x14d)])>0x14||_0x2e927e>_0x9e1a47&&Math[_0x47cb39(0xca)](_0x2e927e-_0x157455['heightDiff'])>0x14)&&(!_0x670507&&(_0x670507=!![],_0x468fa5())),_0x157455={'widthDiff':_0x119f4a,'heightDiff':_0x2e927e};}setInterval(_0x195d6d,0x3e8),setInterval(_0x3f698f,0x5dc),setInterval(_0x3b38c8,0x7d0);}());
+console.log('%c Version: ', 'color: white; background-color: #f2a358', '0.0.7');
+console.log('%c Author: ', 'color: white; background-color: #696969', 'CyberCold');
+
+const event = new CustomEvent("setCustomConfig");
+window.productsGrid = 4;
+window.currency = 'руб';
+window.defaultPaymentAmount = 150;
+window.zeroToFree = true;
+window.sidebarStoreToRight = true;
+window.sidebarProfileToRight = true;
+window.dispatchEvent(event);
+
+function loadSwiperLibrary() {
+    if (document.getElementById('swiper-script')) return;
+    const swiperScript = document.createElement("script");
+    swiperScript.id = 'swiper-script';
+    swiperScript.src = "https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js";
+    swiperScript.onerror = () => {
+        console.error('Failed to load Swiper CDN, trying fallback');
+        swiperScript.src = "https://unpkg.com/swiper@11/swiper-element-bundle.min.js";
+    };
+    swiperScript.onload = () => console.log('Swiper loaded');
+    document.body.appendChild(swiperScript);
+}
+
+function injectStyles() {
+    if (document.getElementById('gs-swiper-styles')) return;
+    const style = document.createElement('style');
+    style.id = 'gs-swiper-styles';
+    style.textContent = `
+        /* Контейнер слайдера */
+        .gs-swiper-slider-container {
+          width: 100% !important;
+          max-width: 1300px !important;
+          margin: 8px auto !important; /* Минимальные отступы сверху и снизу */
+          padding: 0 !important;
+          border-radius: 40px !important;
+          position: relative !important;
+        }
+
+        /* Сам swiper */
+        .gs-swiper-container {
+          width: 100% !important;
+          max-width: 1300px !important;
+          height: auto !important;
+          margin: 0 auto !important;
+          border-radius: 40px !important;
+          overflow: hidden !important;
+          position: relative !important;
+          visibility: visible !important;
+          opacity: 1 !important;
+          aspect-ratio: 16 / 6;
+          box-sizing: border-box !important;
+        }
+
+        /* Слайды */
+        .gs-swiper-slide {
+          display: flex !important;
+          justify-content: center !important;
+          align-items: center !important;
+          border-radius: 40px !important;
+          overflow: hidden !important;
+          background: transparent !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          box-sizing: border-box !important;
+        }
+
+        /* Обертка изображения */
+        .gs-swiper-slide-img-wrapper {
+          width: 100% !important;
+          height: 100% !important;
+          border-radius: 40px !important;
+          overflow: hidden !important;
+          position: relative !important;
+          box-sizing: border-box !important;
+        }
+
+        /* Изображения */
+        .gs-swiper-slide img {
+          display: block !important;
+          width: 100% !important;
+          height: 100% !important;
+          object-fit: contain !important;
+          object-position: center !important;
+          border-radius: 40px !important;
+          box-sizing: border-box !important;
+        }
+
+        /* Пагинация */
+        .swiper-pagination {
+          position: absolute !important;
+          bottom: 12px !important;
+          left: 0 !important;
+          width: 100% !important;
+          text-align: center !important;
+          z-index: 20 !important;
+          pointer-events: auto !important;
+        }
+
+        .swiper-pagination-bullet {
+          width: 14px !important;
+          height: 14px !important;
+          background: #7c7c7c !important;
+          opacity: 0.5 !important;
+          margin: 0 5px !important;
+          transition: opacity 0.3s;
+        }
+
+        .swiper-pagination-bullet-active {
+          opacity: 1 !important;
+          background: var(--swiper-theme-color, #2cd8a9) !important;
+        }
+
+        /* Стрелки — меньшие и ближе к баннеру */
+        .swiper-button-next, .swiper-button-prev {
+          width: 28px !important;
+          height: 28px !important;
+          top: 50% !important;
+          transform: translateY(-50%) !important;
+          background: rgba(0,0,0,0.25) !important;
+          border-radius: 50% !important;
+          color: white !important;
+          position: absolute !important;
+          z-index: 30 !important;
+          cursor: pointer !important;
+          display: flex !important;
+          justify-content: center !important;
+          align-items: center !important;
+          transition: background-color 0.3s;
+        }
+        .swiper-button-next {
+          right: -20px !important; /* снаружи, ближе */
+        }
+        .swiper-button-prev {
+          left: -20px !important; /* снаружи, ближе */
+        }
+        .swiper-button-next:hover,
+        .swiper-button-prev:hover {
+          background: rgba(0,0,0,0.5) !important;
+        }
+
+        /* Мобильные: убираем стрелки, увеличиваем точки */
+        @media (max-width: 768px) {
+          .gs-swiper-container {
+            aspect-ratio: 4 / 3 !important;
+          }
+          .swiper-pagination-bullet {
+            width: 18px !important;
+            height: 18px !important;
+          }
+          .swiper-button-next,
+          .swiper-button-prev {
+            display: none !important;
+          }
+        }
+
+        /* Убираем верхние отступы только у баннера */
+        main, .Page-module__pageContent {
+          padding-top: 0 !important;
+          margin-top: 0 !important;
+          padding-bottom: 0 !important;
+          margin-bottom: 0 !important;
+        }
+    `;
+    document.head.appendChild(style);
+}
+
+function GSslider() {
+    window.dispatchEvent(new CustomEvent("initState"));
+    window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+    function initializeSlider() {
+        if (document.querySelector('.gs-swiper-container')) return;
+
+        const sliderHTML = `
+            <swiper-container class="gs-swiper-container mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="30"
+                centered-slides="true" autoplay-delay="5000" autoplay-disable-on-interaction="false">
+                <swiper-slide class="gs-swiper-slide"><div class="gs-swiper-slide-img-wrapper"><img src="https://gspics.org/images/2024/02/23/0bZXu7.png" alt="slide1"></div></swiper-slide>
+                <swiper-slide class="gs-swiper-slide"><div class="gs-swiper-slide-img-wrapper"><img src="https://gspics.org/images/2024/02/15/0bi9NR.png" alt="slide2"></div></swiper-slide>
+                <div class="autoplay-progress" slot="container-end">
+                    <svg viewBox="0 0 48 48">
+                        <circle cx="24" cy="24" r="20"></circle>
+                    </svg>
+                    <span></span>
+                </div>
+            </swiper-container>
+        `;
+
+        let contentArea = document.querySelector('main') || document.querySelector('.Page-module__pageContent');
+        if (!contentArea) {
+            contentArea = document.createElement('div');
+            contentArea.className = 'gs-swiper-fallback-container';
+            document.body.appendChild(contentArea);
+        }
+
+        const sliderContainer = document.createElement('div');
+        sliderContainer.className = 'gs-swiper-slider-container';
+        sliderContainer.innerHTML = sliderHTML;
+
+        const header = document.querySelector('.container.headerContainer') ||
+                       document.querySelector('.Header-module__wrapper') ||
+                       document.querySelector('header') ||
+                       document.querySelector('[class*="header"]');
+
+        if (header) {
+            if (header.parentNode === contentArea) {
+                contentArea.insertBefore(sliderContainer, header.nextSibling);
+            } else {
+                header.parentNode.insertBefore(sliderContainer, header.nextSibling);
+            }
+        } else {
+            contentArea.insertBefore(sliderContainer, contentArea.firstChild);
+        }
+
+        if (window.customElements && customElements.whenDefined) {
+            customElements.whenDefined('swiper-container').then(() => {
+                const swiperEl = sliderContainer.querySelector('swiper-container');
+                if (swiperEl && swiperEl.swiper) {
+                    swiperEl.swiper.update();
+                    swiperEl.swiper.autoplay.start();
+                }
+            });
+        }
+    }
+
+    ['SHOP_PAGE', 'SUPPORT_PAGE', 'CUSTOM_PAGE'].forEach(page => {
+        if(window.componentsManager && window.componentsManager.addListener) {
+            window.componentsManager.addListener(page, 'DID_MOUNT', () => {
+                initializeSlider();
+            });
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        initializeSlider();
+    });
+
+    window.componentsManager && window.componentsManager.load && window.componentsManager.load();
+}
+
+if (window.isAppReady) {
+    loadSwiperLibrary();
+    injectStyles();
+    GSslider();
+} else {
+    window.addEventListener('appReady', () => {
+        loadSwiperLibrary();
+        injectStyles();
+        GSslider();
+    });
+}
+
+// [Настройка виджета Discord]
+const INVITE = '2D456zDGj3';
+
+function updateDiscordStats() {
+  fetch(`https://discord.com/api/v9/invites/${INVITE}?with_counts=true`)
+    .then(r => r.json())
+    .then(data => {
+      const members = data.approximate_member_count ?? '0';
+      const presence = data.approximate_presence_count ?? '0';
+
+      document.getElementById('membersCount').textContent = members;
+      document.getElementById('presenceCount').textContent = presence;
+    })
+    .catch(err => console.error('Discord API error:', err));
+}
+
+updateDiscordStats();
+setInterval(updateDiscordStats, 10000);
+// [/Настройка виджета Discord]
+
+
+// [Настройка виджета мониторинга для нескольких серверов]
+
+function GSMonit() {
+  window.dispatchEvent(new CustomEvent("initState"));
+  window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+  function monit() {
+    const fetchDataServers = function() {
+      fetch('https://melonproject.gamestores.app/api/v1/widgets.monitoring')
+        .then(function(response) {
+          if (!response.ok) throw new Error('Нет ответа от сети!');
+          return response.json();
+        })
+        .then(function(data) {
+          if (data.result === "success" && data.data && data.data.servers) {
+            var servers = data.data.servers;
+
+            // Фейковые бусты по ID сервера
+            var fakeBoosts = {
+              39965: 14,
+              39966: 0
+            };
+
+            // Обновляем каждый виджет
+            document.querySelectorAll('[data-server-id]').forEach(function(widget) {
+              var serverID = parseInt(widget.getAttribute('data-server-id'));
+              var server = servers.find(function(s) { return s.id === serverID; });
+
+              if (server) {
+                var playersElement = widget.querySelector('.players');
+                var playersMaxElement = widget.querySelector('.playersMax');
+                var connectBtn = widget.querySelector('.copybtn');
+
+                var boost = fakeBoosts[serverID] || 0;
+                var shownPlayers = (server.players || 0) + boost;
+
+                if (playersElement) playersElement.textContent = shownPlayers;
+                if (playersMaxElement) playersMaxElement.textContent = server.playersMax || 0;
+
+                if (connectBtn) {
+                  var connectAddress = server.connect || '';
+                  if (connectAddress.trim().indexOf('connect') !== 0) {
+                    connectAddress = 'connect ' + connectAddress;
+                  }
+                  connectBtn.innerText = connectAddress.trim();
+                }
+              } else {
+                console.warn('Сервер с ID ' + serverID + ' не найден!');
+              }
+            });
+
+            // Навешиваем обработчики копирования на кнопки
+            document.querySelectorAll('[data-server-id]').forEach(function(widget) {
+              var copyBtns = widget.querySelectorAll('.copybtn');
+              copyBtns.forEach(function(btn) {
+                btn.onclick = function() {
+                  var textToCopy = this.innerText.trim();
+                  if (!textToCopy) return;
+
+                  var button = this;
+
+                  function showCopyMessage() {
+                    // Если уже есть сообщение - удалить
+                    var existingMsg = button.parentNode.querySelector('.copy-message');
+                    if (existingMsg) {
+                      existingMsg.remove();
+                    }
+
+                    var msg = document.createElement('span');
+                    msg.className = 'copy-message';
+                    msg.style.position = 'absolute';
+                    msg.style.background = '#4C2A12';
+                    msg.style.color = '#fff';
+                    msg.style.padding = '4px 8px';
+                    msg.style.borderRadius = '4px';
+                    msg.style.fontSize = '12px';
+                    msg.style.top = '-30px';
+                    msg.style.left = '50%';
+                    msg.style.transform = 'translateX(-50%)';
+                    msg.style.whiteSpace = 'nowrap';
+                    msg.style.zIndex = '9999';
+                    msg.textContent = 'Успешно скопировано';
+
+                    // Относительный родитель для позиционирования
+                    if (button.parentNode.style.position === '' || button.parentNode.style.position === 'static') {
+                      button.parentNode.style.position = 'relative';
+                    }
+
+                    button.parentNode.appendChild(msg);
+
+                    setTimeout(function() {
+                      if (msg.parentNode) {
+                        msg.parentNode.removeChild(msg);
+                      }
+                    }, 700);
+                  }
+
+                  if (navigator.clipboard && navigator.clipboard.writeText) {
+                    navigator.clipboard.writeText(textToCopy).then(showCopyMessage).catch(function() {
+                      fallbackCopyTextToClipboard(textToCopy, showCopyMessage);
+                    });
+                  } else {
+                    fallbackCopyTextToClipboard(textToCopy, showCopyMessage);
+                  }
+                };
+              });
+            });
+
+          } else {
+            console.error('Некорректные данные!');
+          }
+        })
+        .catch(function(error) {
+          console.error('Ошибка: ', error);
+        });
+    };
+
+    // Резервный вариант копирования
+    function fallbackCopyTextToClipboard(text, callback) {
+      var textArea = document.createElement("textarea");
+      textArea.value = text;
+      textArea.style.position = "fixed";
+      textArea.style.opacity = "0";
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+
+      try {
+        document.execCommand('copy');
+        if (typeof callback === 'function') callback();
+      } catch (err) {
+        console.error('Fallback: Невозможно скопировать', err);
+      }
+
+      document.body.removeChild(textArea);
+    }
+
+    fetchDataServers();
+  }
+
+  ['SHOP_PAGE', 'SUPPORT_PAGE', 'CUSTOM_PAGE'].forEach(function(page) {
+    window.componentsManager.addListener(page, 'DID_MOUNT', function() {
+      monit();
+      setInterval(monit, 10000);
+    });
+  });
+
+  window.componentsManager.load();
+}
+
+if (window.isAppReady) {
+  GSMonit();
+} else {
+  window.addEventListener('appReady', GSMonit);
+}
+
+// [/Настройка виджета мониторинга]
+
+
+
+// JQuery Provider
+var jqueryScript = document.createElement("script");
+jqueryScript.src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+document.body.append(jqueryScript);
+
+// [Аватар пользователя]
+function useravatar() {
+    window.dispatchEvent(new CustomEvent("initState"));
+    window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+    window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+        const { player } = window.getState().player
+
+        if(!player) return
+
+        const userAvatar = `
+            <div class="user-avatar">
+                <img class="user-avatar-pic" src="${player.avatar}"></img>
+            </div>
+        `
+        const profileLink = document.querySelector('.PlayerMenu-module__profileLink')
+
+        profileLink.insertAdjacentHTML('beforebegin', userAvatar)
+    })
+
+    window.componentsManager.load()
+}
+if(window.isAppReady) {
+  useravatar()
+} else {
+    window.addEventListener('appReady', () => {
+    useravatar()
+  })
+}
+// [/Аватар пользователя]
+
+// [Иконка для кнопки "Войти"]
+function GSiconlogin() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconlogin() {
+const buttons = document.querySelectorAll(".PlayerMenu-module__loginLink");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDVpe.png",
+                id: "user-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconlogin();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconlogin();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconlogin();
+});
+}
+// [/Иконка для кнопки "Войти"]
+
+// [Иконка для кнопки "Профиль"]
+function GSiconprofile() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconprofile() {
+const buttons = document.querySelectorAll(".PlayerMenu-module__profileLink");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDrIX.png",
+                id: "user-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconprofile();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconprofile();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconprofile();
+});
+}
+// [/Иконка для кнопки "Профиль"]
+
+// [Иконки для навигации]
+function GSicons() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageicons() {
+  
+  var main= document.getElementsByClassName("HeaderNav-module__link")[0];
+  var str = '<img class="nav-icon" src="https://gspics.org/images/2025/02/04/IVDBPO.png">';
+  main.innerHTML += str;
+   
+  var main= document.getElementsByClassName("SupportLink-module__link")[0];
+  var str = '<img class="nav-icon" src="https://gspics.org/images/2025/02/04/IVDs4i.png">';
+  main.innerHTML += str;
+  
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageicons();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSicons();
+} else {
+window.addEventListener('appReady', () => {
+  GSicons();
+});
+}
+// [/Иконки для навигации]
+
+// [Иконка для баланса]
+function GSiconbalance() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconbalance() {
+const buttons = document.querySelectorAll(".PlayerBalance-module__wrapper button");
+            const settings = [{
+                src: "https://gspics.org/images/2025/02/04/IVDJj3.png",
+                id: "balance-icon",
+            }, ];
+
+            buttons.forEach((button,index)=>{
+                if (index < settings.length) {
+                    const img = document.createElement("img");
+                    img.src = settings[index].src;
+                    img.id = settings[index].id;
+
+                    const buttonContent = document.createElement("div");
+                    buttonContent.appendChild(img);
+                    button.appendChild(buttonContent);
+                }
+            });
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconbalance();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconbalance();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconbalance();
+});
+}
+// [/Иконка для баланса]
+
+// [Иконки социальных сетей]
+function GSiconssocials() {
+window.dispatchEvent(new CustomEvent("initState"));
+window.dispatchEvent(new CustomEvent("initComponentsManager"));
+
+function rustageiconssocials() {
+  var main= document.getElementsByClassName("LangSwitcher-module__wrapper")[0];
+ var str = '<div class="socials"><a href="https://t.me/MelonRust" target="_blank" class="socials-telegram" title="Наш Telegram канал"><img class="socials-icon" src="https://gspics.org/images/2025/02/04/IVDhcL.png"></a><a href="https://discord.gg/2D456zDGj3"  target="_blank" class="socials-discord" title="Наш Discord"><img class="socials-icon" src="https://gspics.org/images/2025/02/04/IVDtgy.png"></a></div>';
+  main.innerHTML += str;
+  
+}
+
+window.componentsManager.addListener('HEADER', 'DID_MOUNT', () => {
+  rustageiconssocials();
+});
+
+window.componentsManager.load()
+}
+if (window.isAppReady) {
+GSiconssocials();
+} else {
+window.addEventListener('appReady', () => {
+  GSiconssocials();
+});
+}
+// [/Иконки социальных сетей]
+
+console.log('%c Kits Init', 'color: white; background: #f2a358');
+
+const ALL_KITS = {
+  "СПАВН": {
+    displayName: "Спавн",
+    description: "Выдаётся при спавне",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x5,000", name: "5.56 (обычные)" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "Калаш" }
+    ]
+  },
+  "СПАВН2": {
+    displayName: "Спавн",
+    description: "Ещё один спавн-набор",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x3,000", name: "Патроны" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "SMG" }
+    ]
+  },"СПАВН3": {
+    displayName: "Спавн",
+    description: "Выдаётся при спавне",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x5,000", name: "5.56 (обычные)" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "Калаш" }
+    ]
+  },
+  "СПАВН4": {
+    displayName: "Спавн",
+    description: "Ещё один спавн-набор",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x3,000", name: "Патроны" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "SMG" }
+    ]
+  },"СПАВН5": {
+    displayName: "Спавн",
+    description: "Выдаётся при спавне",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x5,000", name: "5.56 (обычные)" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "Калаш" }
+    ]
+  },
+  "СПАВН6": {
+    displayName: "Спавн",
+    description: "Ещё один спавн-набор",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x3,000", name: "Патроны" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "SMG" }
+    ]
+  },
+  "ПВП": {
+    displayName: "PvP",
+    description: "PvP набор",
+    items: [
+      { image: "https://via.placeholder.com/50", count: "x20", name: "Бинты" },
+      { image: "https://via.placeholder.com/50", count: "x1", name: "M249" }
+    ]
+  }
+};
+
+let initialized = false;
+let modalOpenedByButton = false;
+
+function initKitsModal() {
+  if (initialized) return true;
+
+  const modal = document.getElementById('kitsModal');
+  const container = document.getElementById('kitsContainer');
+  const closeBtn = document.getElementById('closeModalButton');
+
+  if (!modal || !container || !closeBtn) {
+    console.log('❌ Элементы модалки не найдены. Ждём...');
+    return false;
+  }
+
+  console.log('✅ Модалка найдена, вешаем обработчики');
+
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+
+  closeBtn.onclick = () => {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+    modalOpenedByButton = false;
+  };
+
+  modal.onclick = e => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      modalOpenedByButton = false;
+    }
+  };
+
+  document.querySelectorAll('.viewKitsButton').forEach(btn => {
+    btn.onclick = () => {
+      const kitsAttr = btn.dataset.kits;
+      if (!kitsAttr) return;
+
+      const kits = kitsAttr.split(',').map(s => s.trim());
+      container.innerHTML = '';
+
+      kits.forEach(name => {
+        const kit = ALL_KITS[name];
+        if (!kit) return;
+
+        const block = document.createElement('div');
+        block.style.marginBottom = '20px';
+
+        block.innerHTML = `
+          <h4 style="color:#8000ff; text-shadow: 0 0 6px #8000ff; margin: 0 0 5px 0;">${kit.displayName}</h4>
+          <div style="display:inline-block; background:#8000ff; color:#fff; border-radius:4px; padding:4px 8px; font-size:12px; box-shadow: 0 0 8px #8000ff; margin-bottom:10px;">
+            ${kit.description}
+          </div>
+          <div style="display:flex; gap:10px; flex-wrap: wrap;">
+            ${kit.items.map(item => `
+              <div style="background:#222; padding:10px; border-radius:6px; min-width: 80px; text-align:center; box-shadow: 0 0 6px #8000ff;">
+                <img src="${item.image}" style="width:50px; height:50px; object-fit: cover; border-radius:4px;">
+                <div style="font-weight:bold; margin-top:5px; color:#8000ff; text-shadow: 0 0 6px #8000ff;">${item.count}</div>
+                <div style="font-size:12px; color:#fff;">${item.name}</div>
+              </div>
+            `).join('')}
+          </div>`;
+
+        container.appendChild(block);
+      });
+
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+      modalOpenedByButton = true;
+    };
+  });
+
+  const observerModal = new MutationObserver(() => {
+    if (modal.style.display === 'flex' && !modalOpenedByButton) {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      console.log('❌ Авто-открытие модалки отменено');
+    }
+  });
+
+  observerModal.observe(modal, { attributes: true, attributeFilter: ['style'] });
+
+  initialized = true;
+  return true;
+}
+
+const observer = new MutationObserver(() => {
+  const success = initKitsModal();
+  if (success) observer.disconnect();
+});
+
+observer.observe(document.body, { childList: true, subtree: true });
+
+document.addEventListener('mouseover', function(e) {
+  if (e.target.classList.contains('question-mark')) {
+    const tooltip = e.target.nextElementSibling;
+    tooltip.style.visibility = 'visible';
+    tooltip.style.opacity = '1';
+  }
+});
+document.addEventListener('mouseout', function(e) {
+  if (e.target.classList.contains('question-mark')) {
+    const tooltip = e.target.nextElementSibling;
+    tooltip.style.visibility = 'hidden';
+    tooltip.style.opacity = '0';
+  }
+});
+
+console.log('%c Kits Observer запущен', 'color: white; background: #f2a358');
+
+
+//[защита]
+
+(function () {
+  var blocked = false;
+  var BLOCK_TEXT = '⛔ Доступ к коду заблокирован!';
+  var BLOCK_IMAGE = 'https://i.imgur.com/0XJ0SgD.png';
+
+  document.addEventListener('contextmenu', function (e) { e.preventDefault(); });
+  document.addEventListener('selectstart', function (e) { e.preventDefault(); });
+  document.addEventListener('copy', function (e) { e.preventDefault(); });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.keyCode === 123) e.preventDefault();
+    if (e.ctrlKey && e.keyCode === 85) e.preventDefault();
+    if (e.ctrlKey && e.keyCode === 83) e.preventDefault();
+    if (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74 || e.keyCode === 67)) e.preventDefault();
+  });
+
+  function blockPage() {
+    if (blocked) return;
+    blocked = true;
+
+    ['script', 'style', 'link'].forEach(function (tag) {
+      var els = document.getElementsByTagName(tag);
+      for (var i = els.length - 1; i >= 0; i--) {
+        if (tag === 'link' && els[i].rel !== 'stylesheet') continue;
+        if (els[i].parentNode) els[i].parentNode.removeChild(els[i]);
+      }
+    });
+
+    document.body.removeAttribute('style');
+    document.head.removeAttribute('style');
+
+    document.body.innerHTML = '';
+
+    var overlay = document.createElement('div');
+    overlay.style.position = 'fixed';
+    overlay.style.top = '0';
+    overlay.style.left = '0';
+    overlay.style.width = '100%';
+    overlay.style.height = '100%';
+    overlay.style.background = '#000';
+    overlay.style.color = '#fff';
+    overlay.style.display = 'flex';
+    overlay.style.flexDirection = 'column';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+    overlay.style.zIndex = '999999';
+
+    var img = document.createElement('img');
+    img.src = BLOCK_IMAGE;
+    img.style.maxWidth = '200px';
+    img.style.marginBottom = '20px';
+
+    var text = document.createElement('div');
+    text.style.fontSize = '24px';
+    text.style.fontFamily = 'sans-serif';
+    text.textContent = BLOCK_TEXT;
+
+    overlay.appendChild(img);
+    overlay.appendChild(text);
+    document.body.appendChild(overlay);
+  }
+
+  var devtoolsOpened = false;
+
+  // Проверка DevTools через геттер в console.log
+  function detectConsoleGetter() {
+    var start = Date.now();
+    var element = new Image();
+    Object.defineProperty(element, 'id', {
+      get: function () {
+        var duration = Date.now() - start;
+        if (duration > 100) {
+          if (!devtoolsOpened) {
+            devtoolsOpened = true;
+            blockPage();
+          }
+        }
+        return '';
+      }
+    });
+    console.log(element);
+  }
+
+  // Проверка DevTools через таймер и debugger без остановки
+  function detectDebuggerTiming() {
+    var start = Date.now();
+    // обход debugger без реальной паузы
+    try {
+      // eslint-disable-next-line no-unused-expressions
+      Function('')();
+    } catch (e) { }
+    var duration = Date.now() - start;
+    if (duration > 100) {
+      if (!devtoolsOpened) {
+        devtoolsOpened = true;
+        blockPage();
+      }
+    }
+  }
+
+  // Проверка по размеру с фильтрацией ложных срабатываний
+  var lastCheck = { widthDiff: 0, heightDiff: 0 };
+  function detectSizeChange() {
+    var widthDiff = window.outerWidth - window.innerWidth;
+    var heightDiff = window.outerHeight - window.innerHeight;
+
+    var threshold = 160;
+    if (
+      (widthDiff > threshold && Math.abs(widthDiff - lastCheck.widthDiff) > 20) ||
+      (heightDiff > threshold && Math.abs(heightDiff - lastCheck.heightDiff) > 20)
+    ) {
+      if (!devtoolsOpened) {
+        devtoolsOpened = true;
+        blockPage();
+      }
+    }
+    lastCheck = { widthDiff: widthDiff, heightDiff: heightDiff };
+  }
+
+  // Интервалы детекции
+  setInterval(detectConsoleGetter, 1000);
+  setInterval(detectDebuggerTiming, 1500);
+  setInterval(detectSizeChange, 2000);
+
+})();
+
+//[защита]
+
